@@ -1,0 +1,33 @@
+[project]
+name = "phish-show-ratings"
+version = "0.1.0"
+description = "Track Phish.net show ratings over time"
+readme = "README.md"
+authors = [
+    { name = "Mike Guterl", email = "mike@diminishing.org" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "selectolax>=0.4.6",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.14",
+    "pytest>=8.0",
+    "ruff>=0.8",
+]
+
+[tool.mypy]
+strict = true
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[build-system]
+requires = ["uv_build>=0.9.13,<0.10.0"]
+build-backend = "uv_build"
