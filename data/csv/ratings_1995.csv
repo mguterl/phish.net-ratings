@@ -1,6 +1,6 @@
 show_id,date,venue,city,state,country,rating
 december-31-1995-madison-square-garden-new-york-ny-usa,1995-12-31,Madison Square Garden,New York,NY,USA,4.645
-december-01-1995-hersheypark-arena-hershey-pa-usa,1995-12-01,Hersheypark Arena,Hershey,PA,USA,4.568
+december-01-1995-hersheypark-arena-hershey-pa-usa,1995-12-01,Hersheypark Arena,Hershey,PA,USA,4.569
 november-14-1995-university-of-central-florida-arena-orlando-fl-usa,1995-11-14,University of Central Florida Arena,Orlando,FL,USA,4.567
 december-14-1995-broome-county-arena-binghamton-ny-usa,1995-12-14,Broome County Veterans Memorial Arena,Binghamton,NY,USA,4.566
 june-26-1995-saratoga-performing-arts-center-saratoga-springs-ny-usa,1995-06-26,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,4.544
@@ -8,18 +8,18 @@ june-14-1995-mud-island-amphitheater-memphis-tn-usa,1995-06-14,Mud Island Amphit
 december-07-1995-niagara-falls-convention-center-niagara-falls-ny-usa,1995-12-07,Niagara Falls Convention Center,Niagara Falls,NY,USA,4.529
 october-31-1995-rosemont-horizon-rosemont-il-usa,1995-10-31,Rosemont Horizon,Rosemont,IL,USA,4.528
 october-21-1995-pershing-auditorium-lincoln-ne-usa,1995-10-21,Pershing Auditorium,Lincoln,NE,USA,4.516
-december-09-1995-knickerbocker-arena-albany-ny-usa,1995-12-09,Knickerbocker Arena,Albany,NY,USA,4.498
 june-20-1995-blossom-music-center-cuyahoga-falls-oh-usa,1995-06-20,Blossom Music Center,Cuyahoga Falls,OH,USA,4.497
+december-09-1995-knickerbocker-arena-albany-ny-usa,1995-12-09,Knickerbocker Arena,Albany,NY,USA,4.495
 june-22-1995-finger-lakes-performing-arts-center-canandaigua-ny-usa,1995-06-22,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,4.488
 december-29-1995-worcester-centrum-centre-worcester-ma-usa,1995-12-29,Worcester Centrum Centre,Worcester,MA,USA,4.48
 june-15-1995-lakewood-amphitheatre-atlanta-ga-usa,1995-06-15,Lakewood Amphitheatre,Atlanta,GA,USA,4.477
 november-30-1995-ervin-j-nutter-center-wright-state-university-dayton-oh-usa,1995-11-30,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,4.452
-december-05-1995-mullins-center-university-of-massachusetts-amherst-ma-usa,1995-12-05,"Mullins Center, University of Massachusetts",Amherst,MA,USA,4.449
-december-02-1995-new-haven-veterans-memorial-coliseum-new-haven-ct-usa,1995-12-02,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,4.448
 october-24-1995-dane-county-coliseum-madison-wi-usa,1995-10-24,Dane County Coliseum,Madison,WI,USA,4.448
+december-02-1995-new-haven-veterans-memorial-coliseum-new-haven-ct-usa,1995-12-02,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,4.445
+december-05-1995-mullins-center-university-of-massachusetts-amherst-ma-usa,1995-12-05,"Mullins Center, University of Massachusetts",Amherst,MA,USA,4.444
 november-11-1995-the-fox-theatre-atlanta-ga-usa,1995-11-11,The Fox Theatre,Atlanta,GA,USA,4.436
-december-11-1995-cumberland-county-civic-center-portland-me-usa,1995-12-11,Cumberland County Civic Center,Portland,ME,USA,4.42
 october-22-1995-assembly-hall-university-of-illinois-champaign-il-usa,1995-10-22,"Assembly Hall, University of Illinois",Champaign,IL,USA,4.418
+december-11-1995-cumberland-county-civic-center-portland-me-usa,1995-12-11,Cumberland County Civic Center,Portland,ME,USA,4.417
 july-03-1995-summer-stage-at-sugarbush-north-fayston-vt-usa,1995-07-03,Summerstage at Sugarbush North,Fayston,VT,USA,4.412
 december-08-1995-csu-convocation-center-cleveland-oh-usa,1995-12-08,CSU Convocation Center,Cleveland,OH,USA,4.398
 june-19-1995-deer-creek-music-center-noblesville-in-usa,1995-06-19,Deer Creek Music Center,Noblesville,IN,USA,4.393
@@ -62,8 +62,8 @@ november-19-1995-charlotte-coliseum-charlotte-nc-usa,1995-11-19,Charlotte Colise
 november-22-1995-usair-arena-landover-md-usa,1995-11-22,USAir Arena,Landover,MD,USA,3.777
 june-08-1995-the-delta-center-salt-lake-city-ut-usa,1995-06-08,The Delta Center,Salt Lake City,UT,USA,3.771
 june-09-1995-red-rocks-amphitheatre-morrison-co-usa,1995-06-09,Red Rocks Amphitheatre,Morrison,CO,USA,3.769
-december-04-1995-mullins-center-university-of-massachusetts-amherst-ma-usa,1995-12-04,"Mullins Center, University of Massachusetts",Amherst,MA,USA,3.698
 november-15-1995-sun-dome-university-of-south-florida-tampa-fl-usa,1995-11-15,"Sun Dome, University of South Florida",Tampa,FL,USA,3.695
+december-04-1995-mullins-center-university-of-massachusetts-amherst-ma-usa,1995-12-04,"Mullins Center, University of Massachusetts",Amherst,MA,USA,3.69
 october-05-1995-memorial-coliseum-portland-or-usa,1995-10-05,Memorial Coliseum,Portland,OR,USA,3.685
 december-16-1995-olympic-center-lake-placid-ny-usa,1995-12-16,Olympic Center,Lake Placid,NY,USA,3.667
 september-30-1995-shoreline-amphitheatre-mountain-view-ca-usa,1995-09-30,Shoreline Amphitheatre,Mountain View,CA,USA,3.641
