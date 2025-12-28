@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-december-31-1995-madison-square-garden-new-york-ny-usa,1995-12-31,Madison Square Garden,New York,NY,USA,4.645
+december-31-1995-madison-square-garden-new-york-ny-usa,1995-12-31,Madison Square Garden,New York,NY,USA,4.646
 december-01-1995-hersheypark-arena-hershey-pa-usa,1995-12-01,Hersheypark Arena,Hershey,PA,USA,4.569
 november-14-1995-university-of-central-florida-arena-orlando-fl-usa,1995-11-14,University of Central Florida Arena,Orlando,FL,USA,4.567
 december-14-1995-broome-county-arena-binghamton-ny-usa,1995-12-14,Broome County Veterans Memorial Arena,Binghamton,NY,USA,4.566
@@ -11,7 +11,7 @@ october-21-1995-pershing-auditorium-lincoln-ne-usa,1995-10-21,Pershing Auditoriu
 june-20-1995-blossom-music-center-cuyahoga-falls-oh-usa,1995-06-20,Blossom Music Center,Cuyahoga Falls,OH,USA,4.497
 december-09-1995-knickerbocker-arena-albany-ny-usa,1995-12-09,Knickerbocker Arena,Albany,NY,USA,4.495
 june-22-1995-finger-lakes-performing-arts-center-canandaigua-ny-usa,1995-06-22,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,4.488
-december-29-1995-worcester-centrum-centre-worcester-ma-usa,1995-12-29,Worcester Centrum Centre,Worcester,MA,USA,4.48
+december-29-1995-worcester-centrum-centre-worcester-ma-usa,1995-12-29,Worcester Centrum Centre,Worcester,MA,USA,4.483
 june-15-1995-lakewood-amphitheatre-atlanta-ga-usa,1995-06-15,Lakewood Amphitheatre,Atlanta,GA,USA,4.477
 november-30-1995-ervin-j-nutter-center-wright-state-university-dayton-oh-usa,1995-11-30,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,4.452
 october-24-1995-dane-county-coliseum-madison-wi-usa,1995-10-24,Dane County Coliseum,Madison,WI,USA,4.448
@@ -36,9 +36,9 @@ november-10-1995-the-fox-theatre-atlanta-ga-usa,1995-11-10,The Fox Theatre,Atlan
 june-25-1995-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,1995-06-25,The Mann Center for the Performing Arts,Philadelphia,PA,USA,4.279
 june-17-1995-nissan-pavilion-at-stone-ridge-bristow-va-usa,1995-06-17,Nissan Pavilion at Stone Ridge,Bristow,VA,USA,4.279
 july-01-1995-great-woods-center-for-the-performing-arts-mansfield-ma-usa,1995-07-01,Great Woods Center for the Performing Arts,Mansfield,MA,USA,4.268
-december-30-1995-madison-square-garden-new-york-ny-usa,1995-12-30,Madison Square Garden,New York,NY,USA,4.257
 may-16-1995-lowell-memorial-auditorium-lowell-ma-usa,1995-05-16,Lowell Memorial Auditorium,Lowell,MA,USA,4.25
-december-28-1995-worcester-centrum-centre-worcester-ma-usa,1995-12-28,Worcester Centrum Centre,Worcester,MA,USA,4.244
+december-30-1995-madison-square-garden-new-york-ny-usa,1995-12-30,Madison Square Garden,New York,NY,USA,4.248
+december-28-1995-worcester-centrum-centre-worcester-ma-usa,1995-12-28,Worcester Centrum Centre,Worcester,MA,USA,4.242
 december-12-1995-providence-civic-center-providence-ri-usa,1995-12-12,Providence Civic Center,Providence,RI,USA,4.226
 december-15-1995-corestates-spectrum-philadelphia-pa-usa,1995-12-15,CoreStates Spectrum,Philadelphia,PA,USA,4.215
 july-02-1995-summer-stage-at-sugarbush-north-fayston-vt-usa,1995-07-02,Summerstage at Sugarbush North,Fayston,VT,USA,4.215
