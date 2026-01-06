@@ -31,6 +31,7 @@ may-13-1989-the-orange-grove-syracuse-ny-usa,1989-05-13,The Orange Grove,Syracus
 march-04-1989-the-wetlands-preserve-new-york-ny-usa,1989-03-04,The Wetlands Preserve,New York,NY,USA,3.444
 may-05-1989-sigma-phi-house-hamilton-college-clinton-ny-usa,1989-05-05,"Sigma Phi House, Hamilton College",Clinton,NY,USA,3.438
 december-15-1989-ukrainian-national-home-new-york-ny-usa,1989-12-15,Ukrainian National Home,New York,NY,USA,3.412
+december-30-1989-the-wetlands-preserve-new-york-ny-usa,1989-12-30,The Wetlands Preserve,New York,NY,USA,3.4
 february-23-1989-the-front-burlington-vt-usa,1989-02-23,The Front,Burlington,VT,USA,3.4
 july-01-1989-les-foufounes-lectriques-montral-qubec-canada,1989-07-01,Les Foufounes Électriques,"Montréal, Québec",,Canada,3.375
 november-03-1989-tree-cafe-portland-me-usa,1989-11-03,Tree Cafe,Portland,ME,USA,3.353
@@ -38,7 +39,6 @@ november-10-1989-sigma-phi-house-hamilton-college-clinton-ny-usa,1989-11-10,"Sig
 september-09-1989-dining-commons-bennington-college-bennington-vt-usa,1989-09-09,"Dining Commons, Bennington College",Bennington,VT,USA,3.333
 march-13-1989-nectars-burlington-vt-usa,1989-03-13,Nectar's,Burlington,VT,USA,3.333
 september-21-1989-pearl-street-ballroom-northampton-ma-usa,1989-09-21,Pearl Street Ballroom,Northampton,MA,USA,3.333
-december-30-1989-the-wetlands-preserve-new-york-ny-usa,1989-12-30,The Wetlands Preserve,New York,NY,USA,3.316
 august-17-1989-the-front-burlington-vt-usa,1989-08-17,The Front,Burlington,VT,USA,3.316
 april-15-1989-billings-lounge-university-of-vermont-burlington-vt-usa,1989-04-15,"Billings Lounge, University of Vermont",Burlington,VT,USA,3.312
 august-23-1989-the-living-room-providence-ri-usa,1989-08-23,The Living Room,Providence,RI,USA,3.3
@@ -47,8 +47,8 @@ december-08-1989-withey-hall-dining-room-green-mountain-college-poultney-vt-usa,
 october-14-1989-the-barn-hobart-college-geneva-ny-usa,1989-10-14,"The Barn, Hobart College",Geneva,NY,USA,3.214
 october-07-1989-chase-hall-bates-college-lewiston-me-usa,1989-10-07,"Chase Hall, Bates College",Lewiston,ME,USA,3.2
 april-30-1989-night-stage-cambridge-ma-usa,1989-04-30,Night Stage,Cambridge,MA,USA,3.188
-june-10-1989-the-living-room-providence-ri-usa,1989-06-10,The Living Room,Providence,RI,USA,3.167
 december-09-1989-huden-dining-hall-castleton-state-college-castleton-vt-usa,1989-12-09,"Huden Dining Hall, Castleton State College",Castleton,VT,USA,3.167
+june-10-1989-the-living-room-providence-ri-usa,1989-06-10,The Living Room,Providence,RI,USA,3.167
 march-30-1989-the-front-burlington-vt-usa,1989-03-30,The Front,Burlington,VT,USA,3.167
 august-19-1989-collis-center-dartmouth-college-hanover-nh-usa,1989-08-19,"Collis Center, Dartmouth College",Hanover,NH,USA,3.154
 october-22-1989-the-front-burlington-vt-usa,1989-10-22,The Front,Burlington,VT,USA,3.133
@@ -56,10 +56,10 @@ august-12-1989-burlington-boathouse-burlington-vt-usa,1989-08-12,Burlington Boat
 february-24-1989-the-front-burlington-vt-usa,1989-02-24,The Front,Burlington,VT,USA,3.118
 october-10-1989-the-front-burlington-vt-usa,1989-10-10,The Front,Burlington,VT,USA,3.1
 december-31-1989-boston-world-trade-center-exhibition-hall-boston-ma-usa,1989-12-31,Boston World Trade Center Exhibition Hall,Boston,MA,USA,3.087
-april-19-1989-johnny-ds-somerville-ma-usa,1989-04-19,Johnny D's,Somerville,MA,USA,3.0
-april-01-1989-pearl-street-ballroom-northampton-ma-usa,1989-04-01,Pearl Street Ballroom,Northampton,MA,USA,3.0
-november-18-1989-23-east-caberet-ardmore-pa-usa,1989-11-18,23 East Cabaret,Ardmore,PA,USA,3.0
 january-18-1989-gallaghers-waitsfield-vt-usa,1989-01-18,Gallagher's,Waitsfield,VT,USA,3.0
+april-19-1989-johnny-ds-somerville-ma-usa,1989-04-19,Johnny D's,Somerville,MA,USA,3.0
+november-18-1989-23-east-caberet-ardmore-pa-usa,1989-11-18,23 East Cabaret,Ardmore,PA,USA,3.0
+april-01-1989-pearl-street-ballroom-northampton-ma-usa,1989-04-01,Pearl Street Ballroom,Northampton,MA,USA,3.0
 march-14-1989-nectars-burlington-vt-usa,1989-03-14,Nectar's,Burlington,VT,USA,2.947
 march-03-1989-living-and-learning-center-university-of-vermont-burlington-vt-usa,1989-03-03,"Living and Learning Center, University of Vermont",Burlington,VT,USA,2.941
 october-21-1989-the-front-burlington-vt-usa,1989-10-21,The Front,Burlington,VT,USA,2.938
