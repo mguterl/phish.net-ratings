@@ -1,6 +1,6 @@
 show_id,date,venue,city,state,country,rating
 october-31-1996-the-omni-atlanta-ga-usa,1996-10-31,The Omni,Atlanta,GA,USA,4.646
-august-17-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-17,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.627
+august-17-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-17,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.628
 december-06-1996-the-aladdin-theatre-las-vegas-nv-usa,1996-12-06,The Aladdin Theatre,Las Vegas,NV,USA,4.626
 august-13-1996-deer-creek-music-center-noblesville-in-usa,1996-08-13,Deer Creek Music Center,Noblesville,IN,USA,4.596
 august-16-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-16,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.574
@@ -39,7 +39,7 @@ october-25-1996-hampton-coliseum-hampton-va-usa,1996-10-25,Hampton Coliseum,Hamp
 april-26-1996-new-orleans-fairgrounds-new-orleans-la-usa,1996-04-26,New Orleans Fairgrounds,New Orleans,LA,USA,3.759
 november-09-1996-the-palace-of-auburn-hills-auburn-hills-mi-usa,1996-11-09,The Palace of Auburn Hills,Auburn Hills,MI,USA,3.742
 november-13-1996-target-center-minneapolis-mn-usa,1996-11-13,Target Center,Minneapolis,MN,USA,3.742
-november-29-1996-the-cow-palace-daly-city-ca-usa,1996-11-29,The Cow Palace,Daly City,CA,USA,3.726
+november-29-1996-the-cow-palace-daly-city-ca-usa,1996-11-29,The Cow Palace,Daly City,CA,USA,3.73
 august-04-1996-red-rocks-amphitheatre-morrison-co-usa,1996-08-04,Red Rocks Amphitheatre,Morrison,CO,USA,3.721
 december-04-1996-sports-arena-san-diego-ca-usa,1996-12-04,Sports Arena,San Diego,CA,USA,3.693
 november-11-1996-van-andel-arena-grand-rapids-mi-usa,1996-11-11,Van Andel Arena,Grand Rapids,MI,USA,3.667
