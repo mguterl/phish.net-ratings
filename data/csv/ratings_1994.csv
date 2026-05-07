@@ -26,14 +26,14 @@ december-31-1994-boston-garden-boston-ma-usa,1994-12-31,Boston Garden,Boston,MA,
 may-28-1994-laguna-seca-raceway-monterey-ca-usa,1994-05-28,Laguna Seca Raceway,Monterey,CA,USA,4.447
 may-29-1994-laguna-seca-raceway-monterey-ca-usa,1994-05-29,Laguna Seca Raceway,Monterey,CA,USA,4.441
 november-02-1994-bangor-auditorium-bangor-me-usa,1994-11-02,Bangor Auditorium,Bangor,ME,USA,4.435
-july-06-1994-theatre-st-denis-montral-qubec-canada,1994-07-06,Theatre St. Denis,"Montréal, Québec",,Canada,4.421
+july-06-1994-theatre-st-denis-montral-qubec-canada,1994-07-06,Theatre St. Denis,"Montréal, Québec",,Canada,4.427
 december-08-1994-spreckels-theatre-san-diego-ca-usa,1994-12-08,Spreckels Theatre,San Diego,CA,USA,4.42
 april-24-1994-grady-cole-center-charlotte-nc-usa,1994-04-24,Grady Cole Center,Charlotte,NC,USA,4.419
 november-04-1994-onondaga-war-memorial-auditorium-syracuse-ny-usa,1994-11-04,Onondaga War Memorial Auditorium,Syracuse,NY,USA,4.406
 december-09-1994-mesa-amphitheatre-mesa-az-usa,1994-12-09,Mesa Amphitheatre,Mesa,AZ,USA,4.406
+october-08-1994-patriot-center-george-mason-university-fairfax-va-usa,1994-10-08,"Patriot Center, George Mason University",Fairfax,VA,USA,4.394
 november-14-1994-devos-hall-grand-rapids-mi-usa,1994-11-14,DeVos Hall,Grand Rapids,MI,USA,4.39
 june-21-1994-cincinnati-music-hall-cincinnati-oh-usa,1994-06-21,Cincinnati Music Hall,Cincinnati,OH,USA,4.388
-october-08-1994-patriot-center-george-mason-university-fairfax-va-usa,1994-10-08,"Patriot Center, George Mason University",Fairfax,VA,USA,4.387
 october-23-1994-band-shell-university-of-florida-gainesville-fl-usa,1994-10-23,"Band Shell, University of Florida",Gainesville,FL,USA,4.387
 june-30-1994-classic-amphitheater-richmond-va-usa,1994-06-30,Classic Amphitheater,Richmond,VA,USA,4.372
 october-25-1994-atlanta-civic-center-atlanta-ga-usa,1994-10-25,Atlanta Civic Center,Atlanta,GA,USA,4.353
@@ -59,18 +59,18 @@ june-19-1994-state-theater-kalamazoo-mi-usa,1994-06-19,State Theater,Kalamazoo,M
 may-22-1994-vogue-theatre-vancouver-british-columbia-canada,1994-05-22,Vogue Theatre,"Vancouver, British Columbia",,Canada,4.245
 june-14-1994-civic-center-des-moines-ia-usa,1994-06-14,Civic Center,Des Moines,IA,USA,4.229
 december-02-1994-recreation-hall-university-of-california-davis-davis-ca-usa,1994-12-02,"Recreation Hall, University of California-Davis",Davis,CA,USA,4.226
-may-04-1994-state-palace-theatre-new-orleans-la-usa,1994-05-04,State Palace Theatre,New Orleans,LA,USA,4.209
 april-04-1994-the-flynn-theatre-burlington-vt-usa,1994-04-04,The Flynn Theatre,Burlington,VT,USA,4.209
 july-03-1994-the-ballpark-old-orchard-beach-me-usa,1994-07-03,The Ballpark,Old Orchard Beach,ME,USA,4.208
 july-01-1994-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,1994-07-01,The Mann Center for the Performing Arts,Philadelphia,PA,USA,4.207
+may-04-1994-state-palace-theatre-new-orleans-la-usa,1994-05-04,State Palace Theatre,New Orleans,LA,USA,4.205
 december-28-1994-civic-center-philadelphia-pa-usa,1994-12-28,Civic Center,Philadelphia,PA,USA,4.195
 april-15-1994-beacon-theatre-new-york-ny-usa,1994-04-15,Beacon Theatre,New York,NY,USA,4.19
 june-13-1994-memorial-hall-kansas-city-ks-usa,1994-06-13,Memorial Hall,Kansas City,KS,USA,4.183
 may-03-1994-starwood-amphitheatre-antioch-tn-usa,1994-05-03,Starwood Amphitheatre,Antioch,TN,USA,4.18
 may-10-1994-paolo-soleri-amphitheatre-santa-fe-nm-usa,1994-05-10,Paolo Soleri Amphitheatre,Santa Fe,NM,USA,4.179
 december-30-1994-madison-square-garden-new-york-ny-usa,1994-12-30,Madison Square Garden,New York,NY,USA,4.176
+april-08-1994-recreation-hall-penn-state-university-state-college-pa-usa,1994-04-08,"Recreation Hall, Penn State University",State College,PA,USA,4.163
 october-15-1994-oak-mountain-amphitheatre-pelham-al-usa,1994-10-15,Oak Mountain Amphitheatre,Pelham,AL,USA,4.154
-april-08-1994-recreation-hall-penn-state-university-state-college-pa-usa,1994-04-08,"Recreation Hall, Penn State University",State College,PA,USA,4.153
 november-19-1994-indiana-university-auditorium-bloomington-in-usa,1994-11-19,Indiana University Auditorium,Bloomington,IN,USA,4.152
 may-19-1994-silva-concert-hall-hult-center-for-the-performing-arts-eugene-or-usa,1994-05-19,"Silva Concert Hall, Hult Center for the Performing Arts",Eugene,OR,USA,4.146
 october-12-1994-orpheum-theatre-memphis-tn-usa,1994-10-12,Orpheum Theatre,Memphis,TN,USA,4.132
@@ -92,10 +92,10 @@ april-17-1994-patriot-center-george-mason-university-fairfax-va-usa,1994-04-17,"
 december-30-1994-ed-sullivan-theater-new-york-ny-usa,1994-12-30,Ed Sullivan Theater,New York,NY,USA,3.885
 october-14-1994-mcalister-auditorium-tulane-university-new-orleans-la-usa,1994-10-14,"McAlister Auditorium, Tulane University",New Orleans,LA,USA,3.873
 may-23-1994-civic-auditorium-portland-or-usa,1994-05-23,Civic Auditorium,Portland,OR,USA,3.872
-october-27-1994-university-hall-university-of-virginia-charlottesville-va-usa,1994-10-27,"University Hall, University of Virginia",Charlottesville,VA,USA,3.864
 may-21-1994-the-moore-theatre-seattle-wa-usa,1994-05-21,The Moore Theatre,Seattle,WA,USA,3.861
 november-03-1994-mullins-center-university-of-massachusetts-amherst-ma-usa,1994-11-03,"Mullins Center, University of Massachusetts",Amherst,MA,USA,3.855
 june-25-1994-nautica-stage-cleveland-oh-usa,1994-06-25,Nautica Stage,Cleveland,OH,USA,3.851
+october-27-1994-university-hall-university-of-virginia-charlottesville-va-usa,1994-10-27,"University Hall, University of Virginia",Charlottesville,VA,USA,3.848
 april-16-1994-mullins-center-university-of-massachusetts-amherst-ma-usa,1994-04-16,"Mullins Center, University of Massachusetts",Amherst,MA,USA,3.839
 may-17-1994-the-arlington-theatre-santa-barbara-ca-usa,1994-05-17,The Arlington Theatre,Santa Barbara,CA,USA,3.833
 october-07-1994-stabler-arena-lehigh-university-bethlehem-pa-usa,1994-10-07,"Stabler Arena, Lehigh University",Bethlehem,PA,USA,3.825
