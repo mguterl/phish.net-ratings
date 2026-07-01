@@ -1,6 +1,6 @@
 show_id,date,venue,city,state,country,rating
 december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.64
-august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.571
+august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.57
 may-08-1993-field-house-university-of-new-hampshire-durham-nh-usa,1993-05-08,"Field House, University of New Hampshire",Durham,NH,USA,4.52
 august-14-1993-world-music-theatre-tinley-park-il-usa,1993-08-14,World Music Theatre,Tinley Park,IL,USA,4.519
 august-28-1993-william-randolph-hearst-greek-theatre-berkeley-ca-usa,1993-08-28,"William Randolph Hearst Greek Theatre, University of California, Berkeley",Berkeley,CA,USA,4.517
@@ -29,9 +29,9 @@ march-30-1993-hilton-ballroom-eugene-or-usa,1993-03-30,Hilton Ballroom,Eugene,OR
 february-19-1993-roxy-theatre-atlanta-ga-usa,1993-02-19,Roxy Theatre,Atlanta,GA,USA,4.323
 august-25-1993-paramount-theatre-seattle-wa-usa,1993-08-25,Paramount Theatre,Seattle,WA,USA,4.322
 april-03-1993-86th-street-music-hall-vancouver-british-columbia-canada,1993-04-03,86th Street Music Hall,"Vancouver, British Columbia",,Canada,4.297
-april-25-1993-kuhl-gym-suny-geneseo-geneseo-ny-usa,1993-04-25,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,4.29
-march-27-1993-warfield-theatre-san-francisco-ca-usa,1993-03-27,Warfield Theatre,San Francisco,CA,USA,4.28
+april-25-1993-kuhl-gym-suny-geneseo-geneseo-ny-usa,1993-04-25,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,4.289
 march-28-1993-east-gym-humboldt-state-university-arcata-ca-usa,1993-03-28,"East Gym, Humboldt State University",Arcata,CA,USA,4.28
+march-27-1993-warfield-theatre-san-francisco-ca-usa,1993-03-27,Warfield Theatre,San Francisco,CA,USA,4.28
 august-06-1993-cincinnati-zoo-peacock-pavilion-cincinnati-oh-usa,1993-08-06,Cincinnati Zoo Peacock Pavilion,Cincinnati,OH,USA,4.28
 august-24-1993-commodore-ballroom-vancouver-british-columbia-canada,1993-08-24,Commodore Ballroom,"Vancouver, British Columbia",,Canada,4.279
 july-16-1993-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,1993-07-16,The Mann Center for the Performing Arts,Philadelphia,PA,USA,4.278
@@ -55,8 +55,8 @@ april-10-1993-aragon-ballroom-chicago-il-usa,1993-04-10,Aragon Ballroom,Chicago,
 february-07-1993-lisner-auditorium-george-washington-university-washington-dc-usa,1993-02-07,"Lisner Auditorium, George Washington University",Washington,DC,USA,4.064
 march-12-1993-dobson-arena-vail-co-usa,1993-03-12,Dobson Arena,Vail,CO,USA,4.043
 february-05-1993-roseland-ballroom-new-york-ny-usa,1993-02-05,Roseland Ballroom,New York,NY,USA,4.022
-february-25-1993-the-cameo-theatre-miami-beach-fl-usa,1993-02-25,The Cameo Theatre,Miami Beach,FL,USA,4.0
 may-07-1993-bangor-auditorium-bangor-me-usa,1993-05-07,Bangor Auditorium,Bangor,ME,USA,4.0
+february-25-1993-the-cameo-theatre-miami-beach-fl-usa,1993-02-25,The Cameo Theatre,Miami Beach,FL,USA,4.0
 april-16-1993-the-macauley-theater-louisville-ky-usa,1993-04-16,The Macauley Theater,Louisville,KY,USA,3.958
 february-18-1993-electric-ballroom-knoxville-tn-usa,1993-02-18,Electric Ballroom,Knoxville,TN,USA,3.951
 december-28-1993-bender-arena-american-university-washington-dc-usa,1993-12-28,"Bender Arena, American University",Washington,DC,USA,3.943
@@ -70,14 +70,14 @@ march-26-1993-warfield-theatre-san-francisco-ca-usa,1993-03-26,Warfield Theatre,
 july-17-1993-the-filene-center-at-wolf-trap-vienna-va-usa,1993-07-17,The Filene Center at Wolf Trap,Vienna,VA,USA,3.889
 february-06-1993-roseland-ballroom-new-york-ny-usa,1993-02-06,Roseland Ballroom,New York,NY,USA,3.857
 july-23-1993-jones-beach-amphitheater-wantagh-ny-usa,1993-07-23,Jones Beach Amphitheater,Wantagh,NY,USA,3.849
-march-08-1993-sweeney-center-santa-fe-nm-usa,1993-03-08,Sweeney Center,Santa Fe,NM,USA,3.846
 april-20-1993-newport-music-hall-columbus-oh-usa,1993-04-20,Newport Music Hall,Columbus,OH,USA,3.846
+march-08-1993-sweeney-center-santa-fe-nm-usa,1993-03-08,Sweeney Center,Santa Fe,NM,USA,3.846
 may-02-1993-tower-theatre-upper-darby-pa-usa,1993-05-02,Tower Theatre,Upper Darby,PA,USA,3.822
 july-18-1993-ic-light-amphitheater-pittsburgh-pa-usa,1993-07-18,IC Light Amphitheater,Pittsburgh,PA,USA,3.806
 april-12-1993-imu-ballroom-university-of-iowa-iowa-city-ia-usa,1993-04-12,"Iowa Memorial Union Main Lounge, University of Iowa",Iowa City,IA,USA,3.781
 february-04-1993-providence-performing-arts-center-providence-ri-usa,1993-02-04,Providence Performing Arts Center,Providence,RI,USA,3.75
-january-28-1993-hard-rock-cafe-boston-ma-usa,1993-01-28,Hard Rock Cafe,Boston,MA,USA,3.75
 april-27-1993-concert-hall-toronto-ontario-canada,1993-04-27,Concert Hall,"Toronto, Ontario",,Canada,3.75
+january-28-1993-hard-rock-cafe-boston-ma-usa,1993-01-28,Hard Rock Cafe,Boston,MA,USA,3.75
 march-03-1993-tipitinas-new-orleans-la-usa,1993-03-03,Tipitina's,New Orleans,LA,USA,3.743
 april-01-1993-roseland-theater-portland-or-usa,1993-04-01,Roseland Theater,Portland,OR,USA,3.741
 march-16-1993-celebrity-theatre-phoenix-az-usa,1993-03-16,Celebrity Theatre,Phoenix,AZ,USA,3.719
@@ -91,10 +91,10 @@ march-21-1993-ventura-theatre-ventura-ca-usa,1993-03-21,Ventura Theatre,Ventura,
 april-13-1993-memorial-hall-kansas-city-ks-usa,1993-04-13,Memorial Hall,Kansas City,KS,USA,3.542
 february-09-1993-auditorium-theatre-rochester-ny-usa,1993-02-09,Auditorium Theatre,Rochester,NY,USA,3.541
 april-22-1993-the-agora-theatre-cleveland-oh-usa,1993-04-22,The Agora Theatre,Cleveland,OH,USA,3.524
-may-29-1993-laguna-seca-raceway-monterey-ca-usa,1993-05-29,Laguna Seca Raceway,Monterey,CA,USA,3.518
+may-29-1993-laguna-seca-raceway-monterey-ca-usa,1993-05-29,Laguna Seca Raceway,Monterey,CA,USA,3.519
 april-02-1993-mt-baker-theatre-bellingham-wa-usa,1993-04-02,Mt. Baker Theatre,Bellingham,WA,USA,3.5
 july-19-1993-pier-six-concert-pavilion-baltimore-md-usa,1993-07-19,Pier Six Concert Pavilion,Baltimore,MD,USA,3.476
-february-27-1993-florida-theatre-gainesville-fl-usa,1993-02-27,Florida Theatre,Gainesville,FL,USA,3.454
+february-27-1993-florida-theatre-gainesville-fl-usa,1993-02-27,Florida Theatre,Gainesville,FL,USA,3.455
 july-28-1993-grady-cole-center-charlotte-nc-usa,1993-07-28,Grady Cole Center,Charlotte,NC,USA,3.438
 march-17-1993-the-palace-hollywood-ca-usa,1993-03-17,The Palace,Hollywood,CA,USA,3.433
 may-30-1993-laguna-seca-raceway-monterey-ca-usa,1993-05-30,Laguna Seca Raceway,Monterey,CA,USA,3.423

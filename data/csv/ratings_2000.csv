@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-june-14-2000-drum-logos-chuo-ku-fukuoka-japan,2000-06-14,Drum Logos,"Chuo-ku, Fukuoka",,Japan,4.654
+june-14-2000-drum-logos-chuo-ku-fukuoka-japan,2000-06-14,Drum Logos,"Chuo-ku, Fukuoka",,Japan,4.653
 july-11-2000-deer-creek-music-center-noblesville-in-usa,2000-07-11,Deer Creek Music Center,Noblesville,IN,USA,4.639
 july-04-2000-e-centre-camden-nj-usa,2000-07-04,E Centre,Camden,NJ,USA,4.593
 september-14-2000-darien-lake-performing-arts-center-darien-center-ny-usa,2000-09-14,Darien Lake Performing Arts Center,Darien Center,NY,USA,4.567
@@ -18,7 +18,7 @@ june-09-2000-on-air-east-shibuya-ku-tokyo-japan,2000-06-09,On Air East,"Shibuya-
 may-22-2000-radio-city-music-hall-new-york-ny-usa,2000-05-22,Radio City Music Hall,New York,NY,USA,4.159
 september-18-2000-blossom-music-center-cuyahoga-falls-oh-usa,2000-09-18,Blossom Music Center,Cuyahoga Falls,OH,USA,4.136
 june-24-2000-lakewood-amphitheatre-atlanta-ga-usa,2000-06-24,Lakewood Amphitheatre,Atlanta,GA,USA,4.114
-july-08-2000-alpine-valley-music-theatre-east-troy-wi-usa,2000-07-08,Alpine Valley Music Theatre,East Troy,WI,USA,4.09
+july-08-2000-alpine-valley-music-theatre-east-troy-wi-usa,2000-07-08,Alpine Valley Music Theatre,East Troy,WI,USA,4.091
 september-09-2000-pepsi-arena-albany-ny-usa,2000-09-09,Pepsi Arena,Albany,NY,USA,4.089
 july-14-2000-polaris-amphitheater-columbus-oh-usa,2000-07-14,Polaris Amphitheater,Columbus,OH,USA,4.065
 july-01-2000-meadows-music-theatre-hartford-ct-usa,2000-07-01,Meadows Music Theatre,Hartford,CT,USA,4.05
@@ -48,8 +48,8 @@ september-25-2000-sandstone-amphitheatre-bonner-springs-ks-usa,2000-09-25,Sandst
 october-04-2000-coors-amphitheatre-chula-vista-ca-usa,2000-10-04,Coors Amphitheatre,Chula Vista,CA,USA,3.279
 june-11-2000-hibiya-outdoor-theatre-chiyoda-ku-tokyo-japan,2000-06-11,Hibiya Outdoor Theatre,"Chiyoda-ku, Tokyo",,Japan,3.173
 june-27-2000-nbc-television-studios-studio-6a-new-york-ny-usa,2000-06-27,"NBC Television Studios, Studio 6A",New York,NY,USA,3.111
-may-15-2000-sonic-studios-philadelphia-pa-usa,2000-05-15,Sonic Studios,Philadelphia,PA,USA,3.0
 july-17-2000-klru-studios-university-of-texas-austin-tx-usa,2000-07-17,"KLRU Studios, University of Texas",Austin,TX,USA,3.0
+may-15-2000-sonic-studios-philadelphia-pa-usa,2000-05-15,Sonic Studios,Philadelphia,PA,USA,3.0
 june-25-2000-alltel-pavilion-at-walnut-creek-raleigh-nc-usa,2000-06-25,ALLTEL Pavilion at Walnut Creek,Raleigh,NC,USA,2.96
 may-18-2000-fantasy-studios-berkeley-ca-usa,2000-05-18,Fantasy Studios,Berkeley,CA,USA,2.95
 may-19-2000-key-club-los-angeles-ca-usa,2000-05-19,Key Club,Los Angeles,CA,USA,2.938
