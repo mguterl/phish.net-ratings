@@ -1,9 +1,9 @@
 show_id,date,venue,city,state,country,rating
 may-17-1992-achilles-rink-union-college-schenectady-ny-usa,1992-05-17,"Achilles Rink, Union College",Schenectady,NY,USA,4.513
 april-18-1992-wilbur-field-stanford-university-palo-alto-ca-usa,1992-04-18,"Wilbur Field, Stanford University",Palo Alto,CA,USA,4.5
-march-13-1992-campus-club-providence-ri-usa,1992-03-13,Campus Club,Providence,RI,USA,4.485
 april-21-1992-redwood-acres-fairgrounds-eureka-ca-usa,1992-04-21,Redwood Acres Fairgrounds,Eureka,CA,USA,4.48
 march-20-1992-broome-county-forum-binghamton-ny-usa,1992-03-20,Broome County Forum,Binghamton,NY,USA,4.479
+march-13-1992-campus-club-providence-ri-usa,1992-03-13,Campus Club,Providence,RI,USA,4.471
 november-19-1992-ross-arena-st-michaels-college-colchester-vt-usa,1992-11-19,"Ross Arena, St. Michael's College",Colchester,VT,USA,4.452
 december-31-1992-matthews-arena-northeastern-university-boston-ma-usa,1992-12-31,"Matthews Arena, Northeastern University",Boston,MA,USA,4.447
 december-12-1992-the-spectrum-toronto-ontario-canada,1992-12-12,The Spectrum,"Toronto, Ontario",,Canada,4.444
@@ -46,8 +46,8 @@ december-07-1992-first-avenue-minneapolis-mn-usa,1992-12-07,First Avenue,Minneap
 april-25-1992-campus-recreation-center-evergreen-college-olympia-wa-usa,1992-04-25,"Campus Recreation Center, Evergreen College",Olympia,WA,USA,3.893
 march-19-1992-palace-theatre-new-haven-ct-usa,1992-03-19,Palace Theatre,New Haven,CT,USA,3.828
 december-10-1992-state-theater-kalamazoo-mi-usa,1992-12-10,State Theater,Kalamazoo,MI,USA,3.815
+march-21-1992-chestnut-cabaret-philadelphia-pa-usa,1992-03-21,Chestnut Cabaret,Philadelphia,PA,USA,3.806
 april-13-1992-after-the-gold-rush-tempe-az-usa,1992-04-13,After the Gold Rush,Tempe,AZ,USA,3.8
-march-21-1992-chestnut-cabaret-philadelphia-pa-usa,1992-03-21,Chestnut Cabaret,Philadelphia,PA,USA,3.8
 august-24-1992-gerald-ford-amphitheater-vail-co-usa,1992-08-24,Gerald Ford Amphitheater,Vail,CO,USA,3.8
 october-30-1992-boston-garden-boston-ma-usa,1992-10-30,Boston Garden,Boston,MA,USA,3.794
 november-25-1992-keswick-theatre-glenside-pa-usa,1992-11-25,Keswick Theatre,Glenside,PA,USA,3.786
@@ -66,8 +66,8 @@ april-07-1992-fine-arts-auditorium-fort-lewis-college-durango-co-usa,1992-04-07,
 march-31-1992-the-blue-note-columbia-mo-usa,1992-03-31,The Blue Note,Columbia,MO,USA,3.583
 march-25-1992-trax-charlottesville-va-usa,1992-03-25,Trax,Charlottesville,VA,USA,3.577
 august-29-1992-shoreline-amphitheatre-mountain-view-ca-usa,1992-08-29,Shoreline Amphitheatre,Mountain View,CA,USA,3.577
+march-17-1992-lisner-auditorium-george-washington-university-washington-dc-usa,1992-03-17,"Lisner Auditorium, George Washington University",Washington,DC,USA,3.56
 november-30-1992-metropol-pittsburgh-pa-usa,1992-11-30,Metropol,Pittsburgh,PA,USA,3.5
-march-17-1992-lisner-auditorium-george-washington-university-washington-dc-usa,1992-03-17,"Lisner Auditorium, George Washington University",Washington,DC,USA,3.5
 april-15-1992-variety-arts-center-los-angeles-ca-usa,1992-04-15,Variety Arts Center,Los Angeles,CA,USA,3.484
 march-27-1992-13x13-club-charlotte-nc-usa,1992-03-27,1313 Club,Charlotte,NC,USA,3.45
 july-31-1992-blossom-music-center-cuyahoga-falls-oh-usa,1992-07-31,Blossom Music Center,Cuyahoga Falls,OH,USA,3.429
