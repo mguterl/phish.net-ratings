@@ -1,9 +1,9 @@
 show_id,date,venue,city,state,country,rating
 october-31-1996-the-omni-atlanta-ga-usa,1996-10-31,The Omni,Atlanta,GA,USA,4.638
-august-17-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-17,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.627
+august-17-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-17,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.625
 december-06-1996-the-aladdin-theatre-las-vegas-nv-usa,1996-12-06,The Aladdin Theatre,Las Vegas,NV,USA,4.624
 august-13-1996-deer-creek-music-center-noblesville-in-usa,1996-08-13,Deer Creek Music Center,Noblesville,IN,USA,4.599
-august-16-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-16,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.575
+august-16-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-16,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.572
 november-02-1996-coral-sky-amphitheater-west-palm-beach-fl-usa,1996-11-02,Coral Sky Amphitheater,West Palm Beach,FL,USA,4.558
 december-29-1996-corestates-spectrum-philadelphia-pa-usa,1996-12-29,CoreStates Spectrum,Philadelphia,PA,USA,4.527
 november-27-1996-key-arena-seattle-wa-usa,1996-11-27,Key Arena,Seattle,WA,USA,4.483
@@ -62,7 +62,7 @@ july-12-1996-melkweg-amsterdam-netherlands,1996-07-12,Melkweg,Amsterdam,,Netherl
 july-03-1996-stadio-briamasco-trento-italy,1996-07-03,Stadio Briamasco,Trento,,Italy,3.091
 november-14-1996-hilton-coliseum-ames-ia-usa,1996-11-14,Hilton Coliseum,Ames,IA,USA,3.089
 july-05-1996-stadio-olimpico-rome-italy,1996-07-05,Stadio Olimpico,Rome,,Italy,2.92
-october-16-1996-olympic-center-lake-placid-ny-usa,1996-10-16,Olympic Center,Lake Placid,NY,USA,2.829
+october-16-1996-olympic-center-lake-placid-ny-usa,1996-10-16,Olympic Center,Lake Placid,NY,USA,2.814
 july-07-1996-parco-aquatica-milan-italy,1996-07-07,Parco Aquatica,Milan,,Italy,2.789
 july-17-1996-theatre-antique-vienne-france,1996-07-17,Theatre Antique,Vienne,,France,2.636
 july-09-1996-centre-international-deauville-france,1996-07-09,Centre International,Deauville,,France,2.619
