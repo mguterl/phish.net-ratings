@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-december-30-2016-madison-square-garden-new-york-ny-usa,2016-12-30,Madison Square Garden,New York,NY,USA,4.553
+december-30-2016-madison-square-garden-new-york-ny-usa,2016-12-30,Madison Square Garden,New York,NY,USA,4.552
 september-04-2016-dicks-sporting-goods-park-commerce-city-co-usa,2016-09-04,Dick's Sporting Goods Park,Commerce City,CO,USA,4.551
 january-02-2016-madison-square-garden-new-york-ny-usa,2016-01-02,Madison Square Garden,New York,NY,USA,4.547
 october-28-2016-mgm-grand-garden-arena-las-vegas-nv-usa,2016-10-28,MGM Grand Garden Arena,Las Vegas,NV,USA,4.535
@@ -10,7 +10,7 @@ july-19-2016-bill-graham-civic-auditorium-san-francisco-ca-usa,2016-07-19,Bill G
 september-03-2016-dicks-sporting-goods-park-commerce-city-co-usa,2016-09-03,Dick's Sporting Goods Park,Commerce City,CO,USA,4.47
 july-15-2016-gorge-amphitheatre-george-wa-usa,2016-07-15,Gorge Amphitheatre,George,WA,USA,4.453
 october-29-2016-mgm-grand-garden-arena-las-vegas-nv-usa,2016-10-29,MGM Grand Garden Arena,Las Vegas,NV,USA,4.448
-september-02-2016-dicks-sporting-goods-park-commerce-city-co-usa,2016-09-02,Dick's Sporting Goods Park,Commerce City,CO,USA,4.396
+september-02-2016-dicks-sporting-goods-park-commerce-city-co-usa,2016-09-02,Dick's Sporting Goods Park,Commerce City,CO,USA,4.395
 october-18-2016-ascend-amphitheater-nashville-tn-usa,2016-10-18,Ascend Amphitheater,Nashville,TN,USA,4.389
 july-09-2016-xfinity-theatre-hartford-ct-usa,2016-07-09,Xfinity Theatre,Hartford,CT,USA,4.37
 july-23-2016-sleep-train-amphitheatre-chula-vista-ca-usa,2016-07-23,Sleep Train Amphitheatre,Chula Vista,CA,USA,4.333
@@ -22,17 +22,17 @@ december-29-2016-madison-square-garden-new-york-ny-usa,2016-12-29,Madison Square
 july-18-2016-bill-graham-civic-auditorium-san-francisco-ca-usa,2016-07-18,Bill Graham Civic Auditorium,San Francisco,CA,USA,4.168
 july-01-2016-saratoga-performing-arts-center-saratoga-springs-ny-usa,2016-07-01,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,4.133
 january-17-2016-barcel-maya-beach-riviera-maya-quintana-roo-mexico,2016-01-17,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,4.098
-august-26-2016-oak-ridge-farm-arrington-va-usa,2016-08-26,Oak Ridge Farm,Arrington,VA,USA,4.086
+august-26-2016-oak-ridge-farm-arrington-va-usa,2016-08-26,Oak Ridge Farm,Arrington,VA,USA,4.085
 july-08-2016-xfinity-center-mansfield-ma-usa,2016-07-08,Xfinity Center,Mansfield,MA,USA,4.059
-december-31-2016-madison-square-garden-new-york-ny-usa,2016-12-31,Madison Square Garden,New York,NY,USA,4.053
+december-31-2016-madison-square-garden-new-york-ny-usa,2016-12-31,Madison Square Garden,New York,NY,USA,4.054
 july-20-2016-bill-graham-civic-auditorium-san-francisco-ca-usa,2016-07-20,Bill Graham Civic Auditorium,San Francisco,CA,USA,4.046
 june-28-2016-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,2016-06-28,The Mann Center for the Performing Arts,Philadelphia,PA,USA,3.916
 june-24-2016-wrigley-field-chicago-il-usa,2016-06-24,Wrigley Field,Chicago,IL,USA,3.896
 october-14-2016-north-charleston-coliseum-north-charleston-sc-usa,2016-10-14,North Charleston Coliseum,North Charleston,SC,USA,3.686
-august-28-2016-oak-ridge-farm-arrington-va-usa,2016-08-28,Oak Ridge Farm,Arrington,VA,USA,3.683
+august-28-2016-oak-ridge-farm-arrington-va-usa,2016-08-28,Oak Ridge Farm,Arrington,VA,USA,3.684
 january-15-2016-barcel-maya-beach-riviera-maya-quintana-roo-mexico,2016-01-15,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,3.673
-october-16-2016-jacksonville-veterans-memorial-arena-jacksonville-fl-usa,2016-10-16,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,3.661
-july-10-2016-lakeview-amphitheater-syracuse-ny-usa,2016-07-10,Lakeview Amphitheater,Syracuse,NY,USA,3.591
+october-16-2016-jacksonville-veterans-memorial-arena-jacksonville-fl-usa,2016-10-16,Jacksonville Veterans Memorial Arena,Jacksonville,FL,USA,3.658
+july-10-2016-lakeview-amphitheater-syracuse-ny-usa,2016-07-10,Lakeview Amphitheater,Syracuse,NY,USA,3.593
 july-16-2016-gorge-amphitheatre-george-wa-usa,2016-07-16,Gorge Amphitheatre,George,WA,USA,3.586
 june-26-2016-klipsch-music-center-noblesville-in-usa,2016-06-26,Klipsch Music Center,Noblesville,IN,USA,3.571
 october-24-2016-verizon-theatre-at-grand-prairie-grand-prairie-tx-usa,2016-10-24,Verizon Theatre at Grand Prairie,Grand Prairie,TX,USA,3.567
@@ -42,7 +42,7 @@ july-03-2016-saratoga-performing-arts-center-saratoga-springs-ny-usa,2016-07-03,
 january-16-2016-barcel-maya-beach-riviera-maya-quintana-roo-mexico,2016-01-16,Barceló Maya Beach,"Riviera Maya, Quintana Roo",,Mexico,3.409
 june-29-2016-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,2016-06-29,The Mann Center for the Performing Arts,Philadelphia,PA,USA,3.39
 july-02-2016-saratoga-performing-arts-center-saratoga-springs-ny-usa,2016-07-02,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,3.348
-october-15-2016-north-charleston-coliseum-north-charleston-sc-usa,2016-10-15,North Charleston Coliseum,North Charleston,SC,USA,3.297
+october-15-2016-north-charleston-coliseum-north-charleston-sc-usa,2016-10-15,North Charleston Coliseum,North Charleston,SC,USA,3.296
 july-06-2016-cross-insurance-arena-portland-me-usa,2016-07-06,Cross Insurance Arena,Portland,ME,USA,2.924
 october-10-2016-nbc-studios-new-york-ny-usa,2016-10-10,NBC Studios,New York,NY,USA,2.84
 july-22-2016-the-forum-inglewood-ca-usa,2016-07-22,The Forum,Inglewood,CA,USA,2.587
