@@ -24,8 +24,8 @@ october-28-1991-elk-ballroom-telluride-co-usa,1991-10-28,Elk Ballroom,Telluride,
 september-25-1991-the-colonial-theatre-keene-nh-usa,1991-09-25,The Colonial Theatre,Keene,NH,USA,4.261
 march-31-1991-berkeley-square-berkeley-ca-usa,1991-03-31,Berkeley Square,Berkeley,CA,USA,4.233
 april-12-1991-barrymore-theatre-madison-wi-usa,1991-04-12,Barrymore Theatre,Madison,WI,USA,4.16
-july-23-1991-the-bayou-washington-dc-usa,1991-07-23,The Bayou,Washington,DC,USA,4.143
 april-06-1991-campus-recreation-center-evergreen-college-olympia-wa-usa,1991-04-06,"The Library Building, Evergreen College",Olympia,WA,USA,4.143
+july-23-1991-the-bayou-washington-dc-usa,1991-07-23,The Bayou,Washington,DC,USA,4.143
 march-08-1991-college-station-theater-tuscaloosa-al-usa,1991-03-08,College Station Theater,Tuscaloosa,AL,USA,4.077
 march-16-1991-ten-mile-room-breckenridge-co-usa,1991-03-16,Ten Mile Room,Breckenridge,CO,USA,4.065
 march-17-1991-wheeler-opera-house-aspen-co-usa,1991-03-17,Wheeler Opera House,Aspen,CO,USA,4.062
@@ -54,21 +54,21 @@ may-19-1991-salisbury-school-salisbury-ct-usa,1991-05-19,Salisbury School,Salisb
 february-27-1991-arnolds-flamingo-grill-knoxville-tn-usa,1991-02-27,Arnold’s Flamingo Grill,Knoxville,TN,USA,3.714
 february-03-1991-the-front-burlington-vt-usa,1991-02-03,The Front,Burlington,VT,USA,3.7
 september-28-1991-the-rink-buffalo-ny-usa,1991-09-28,The Rink,Buffalo,NY,USA,3.7
-may-10-1991-page-commons-room-student-center-colby-college-waterville-me-usa,1991-05-10,"Page Commons Room, Student Center, Colby College",Waterville,ME,USA,3.682
-october-06-1991-cochran-lounge-student-union-macalester-college-st-paul-mn-usa,1991-10-06,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,3.667
+may-10-1991-page-commons-room-student-center-colby-college-waterville-me-usa,1991-05-10,"Page Commons Room, Student Center, Colby College",Waterville,ME,USA,3.696
 september-26-1991-state-theatre-ithaca-ny-usa,1991-09-26,State Theatre Of Ithaca,Ithaca,NY,USA,3.667
 october-18-1991-great-american-music-hall-san-francisco-ca-usa,1991-10-18,Great American Music Hall,San Francisco,CA,USA,3.667
+october-06-1991-cochran-lounge-student-union-macalester-college-st-paul-mn-usa,1991-10-06,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,3.667
 september-27-1991-the-warehouse-rochester-ny-usa,1991-09-27,The Warehouse,Rochester,NY,USA,3.65
 november-19-1991-the-sting-new-britain-ct-usa,1991-11-19,The Sting,New Britain,CT,USA,3.643
-february-14-1991-state-theatre-ithaca-ny-usa,1991-02-14,State Theatre Of Ithaca,Ithaca,NY,USA,3.632
 october-15-1991-international-beer-garden-arcata-ca-usa,1991-10-15,International Beer Garden,Arcata,CA,USA,3.632
+february-14-1991-state-theatre-ithaca-ny-usa,1991-02-14,State Theatre Of Ithaca,Ithaca,NY,USA,3.632
 april-11-1991-the-cave-carleton-college-northfield-mn-usa,1991-04-11,"The Cave, Carleton College",Northfield,MN,USA,3.619
 april-21-1991-suny-potsdam-potsdam-ny-usa,1991-04-21,SUNY Potsdam,Potsdam,NY,USA,3.615
-october-04-1991-barrymore-theatre-madison-wi-usa,1991-10-04,Barrymore Theatre,Madison,WI,USA,3.6
 march-23-1991-the-inferno-steamboat-springs-co-usa,1991-03-23,The Inferno,Steamboat Springs,CO,USA,3.6
 february-15-1991-the-colonial-theatre-keene-nh-usa,1991-02-15,The Colonial Theatre,Keene,NH,USA,3.6
-march-09-1991-tipitinas-new-orleans-la-usa,1991-03-09,Tipitina's,New Orleans,LA,USA,3.591
+october-04-1991-barrymore-theatre-madison-wi-usa,1991-10-04,Barrymore Theatre,Madison,WI,USA,3.6
 april-03-1991-britt-ballroom-southern-oregon-state-college-ashland-or-usa,1991-04-03,"Britt Ballroom, Southern Oregon State College",Ashland,OR,USA,3.591
+march-09-1991-tipitinas-new-orleans-la-usa,1991-03-09,Tipitina's,New Orleans,LA,USA,3.591
 april-04-1991-wow-hall-eugene-or-usa,1991-04-04,WOW Hall,Eugene,OR,USA,3.588
 april-18-1991-dionysus-club-the-sco-oberlin-college-oberlin-oh-usa,1991-04-18,"Dionysus Club, The 'Sco, Oberlin College",Oberlin,OH,USA,3.583
 april-05-1991-starry-night-portland-or-usa,1991-04-05,Starry Night,Portland,OR,USA,3.583
@@ -78,9 +78,9 @@ may-09-1991-portland-performing-arts-center-portland-me-usa,1991-05-09,Portland 
 october-11-1991-backstage-seattle-wa-usa,1991-10-11,Backstage,Seattle,WA,USA,3.529
 march-15-1991-gothic-theatre-englewood-co-usa,1991-03-15,Gothic Theatre,Englewood,CO,USA,3.519
 february-19-1991-the-bayou-washington-dc-usa,1991-02-19,The Bayou,Washington,DC,USA,3.5
-july-18-1991-hampton-casino-ballroom-hampton-beach-nh-usa,1991-07-18,Hampton Casino Ballroom,Hampton Beach,NH,USA,3.5
-july-15-1991-the-academy-new-york-ny-usa,1991-07-15,The Academy,New York,NY,USA,3.5
 march-02-1991-the-cotton-club-atlanta-ga-usa,1991-03-02,The Cotton Club,Atlanta,GA,USA,3.5
+july-15-1991-the-academy-new-york-ny-usa,1991-07-15,The Academy,New York,NY,USA,3.5
+july-18-1991-hampton-casino-ballroom-hampton-beach-nh-usa,1991-07-18,Hampton Casino Ballroom,Hampton Beach,NH,USA,3.5
 september-30-1991-the-dugout-lounge-ohio-university-athens-oh-usa,1991-09-30,"The Dugout Lounge, Ohio University",Athens,OH,USA,3.476
 april-02-1991-international-beer-garden-arcata-ca-usa,1991-04-02,International Beer Garden,Arcata,CA,USA,3.471
 may-16-1991-the-sting-new-britain-ct-usa,1991-05-16,The Sting,New Britain,CT,USA,3.444
@@ -92,10 +92,10 @@ april-16-1991-ricks-caf-ann-arbor-mi-usa,1991-04-16,Rick's Café,Ann Arbor,MI,US
 december-05-1991-greenfield-armory-castle-greenfield-ma-usa,1991-12-05,Greenfield Armory Castle,Greenfield,MA,USA,3.389
 april-26-1991-hartman-union-activities-center-plymouth-state-university-plymouth-nh-usa,1991-04-26,"Hartman Union Activities Center, Plymouth State University",Plymouth,NH,USA,3.375
 october-19-1991-the-catalyst-santa-cruz-ca-usa,1991-10-19,The Catalyst,Santa Cruz,CA,USA,3.368
-february-09-1991-john-m-greene-hall-smith-college-northampton-ma-usa,1991-02-09,"John M. Greene Hall, Smith College",Northampton,MA,USA,3.364
 september-29-1991-the-agora-ballroom-cleveland-oh-usa,1991-09-29,The Agora Ballroom,Cleveland,OH,USA,3.364
-february-26-1991-the-barrel-house-salem-va-usa,1991-02-26,The Barrel House,Salem,VA,USA,3.333
+february-09-1991-john-m-greene-hall-smith-college-northampton-ma-usa,1991-02-09,"John M. Greene Hall, Smith College",Northampton,MA,USA,3.364
 november-22-1991-sullivan-gymnasium-university-of-southern-maine-portland-me-usa,1991-11-22,"Sullivan Gymnasium, University of Southern Maine",Portland,ME,USA,3.333
+february-26-1991-the-barrel-house-salem-va-usa,1991-02-26,The Barrel House,Salem,VA,USA,3.333
 february-02-1991-alumni-gymnasium-bates-college-lewiston-me-usa,1991-02-02,"Alumni Gymnasium, Bates College",Lewiston,ME,USA,3.292
 february-07-1991-pickle-barrel-pub-killington-vt-usa,1991-02-07,Pickle Barrel Pub,Killington,VT,USA,3.25
 october-17-1991-great-american-music-hall-san-francisco-ca-usa,1991-10-17,Great American Music Hall,San Francisco,CA,USA,3.235
@@ -106,10 +106,10 @@ may-18-1991-the-marquee-new-york-ny-usa,1991-05-18,The Marquee,New York,NY,USA,3
 october-26-1991-club-west-santa-fe-nm-usa,1991-10-26,Club West,Santa Fe,NM,USA,3.167
 march-29-1991-dna-lounge-san-francisco-ca-usa,1991-03-29,DNA Lounge,San Francisco,CA,USA,3.154
 february-16-1991-the-marquee-new-york-ny-usa,1991-02-16,The Marquee,New York,NY,USA,3.133
-december-06-1991-mccullough-social-hall-mccullough-student-center-middlebury-college-middlebury-vt-usa,1991-12-06,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,3.056
+december-06-1991-mccullough-social-hall-mccullough-student-center-middlebury-college-middlebury-vt-usa,1991-12-06,"McCullough Social Hall, McCullough Student Center, Middlebury College",Middlebury,VT,USA,3.053
 march-25-1991-fine-arts-auditorium-fort-lewis-college-durango-co-usa,1991-03-25,"Fine Arts Auditorium, Fort Lewis College",Durango,CO,USA,3.0
-november-10-1991-music-farm-charleston-sc-usa,1991-11-10,Music Farm,Charleston,SC,USA,3.0
 december-04-1991-e-glenn-giltz-auditorium-suny-plattsburgh-plattsburgh-ny-usa,1991-12-04,"E. Glenn Giltz Auditorium, SUNY-Plattsburgh",Plattsburgh,NY,USA,3.0
+november-10-1991-music-farm-charleston-sc-usa,1991-11-10,Music Farm,Charleston,SC,USA,3.0
 february-21-1991-trax-charlottesville-va-usa,1991-02-21,Trax,Charlottesville,VA,USA,2.944
 october-02-1991-the-cubby-bear-chicago-il-usa,1991-10-02,The Cubby Bear,Chicago,IL,USA,2.941
 may-11-1991-the-front-burlington-vt-usa,1991-05-11,The Front,Burlington,VT,USA,2.923
