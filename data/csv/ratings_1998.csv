@@ -8,7 +8,7 @@ august-12-1998-vernon-downs-vernon-ny-usa,1998-08-12,Vernon Downs,Vernon,NY,USA,
 november-27-1998-worcester-centrum-centre-worcester-ma-usa,1998-11-27,Worcester Centrum Centre,Worcester,MA,USA,4.62
 december-31-1998-madison-square-garden-new-york-ny-usa,1998-12-31,Madison Square Garden,New York,NY,USA,4.618
 august-16-1998-loring-commerce-centre-limestone-me-usa,1998-08-16,Loring Commerce Centre,Limestone,ME,USA,4.614
-july-06-1998-lucerna-theatre-prague-czech-republic,1998-07-06,Lucerna Theatre,Prague,,Czech Republic,4.613
+july-06-1998-lucerna-theatre-prague-czech-republic,1998-07-06,Lucerna Theatre,Prague,Prague,Czech Republic,4.613
 august-15-1998-loring-commerce-centre-limestone-me-usa,1998-08-15,Loring Commerce Centre,Limestone,ME,USA,4.613
 august-01-1998-alpine-valley-music-theatre-east-troy-wi-usa,1998-08-01,Alpine Valley Music Theatre,East Troy,WI,USA,4.611
 december-29-1998-madison-square-garden-new-york-ny-usa,1998-12-29,Madison Square Garden,New York,NY,USA,4.606
@@ -21,17 +21,17 @@ july-29-1998-riverport-amphitheater-maryland-heights-mo-usa,1998-07-29,Riverport
 august-09-1998-virginia-beach-amphitheater-virginia-beach-va-usa,1998-08-09,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,4.516
 july-15-1998-portland-meadows-portland-or-usa,1998-07-15,Portland Meadows,Portland,OR,USA,4.516
 october-30-1998-thomas-mack-center-las-vegas-nv-usa,1998-10-30,Thomas & Mack Center,Las Vegas,NV,USA,4.503
-july-02-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-07-02,The Grey Hall,Copenhagen,,Denmark,4.482
+july-02-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-07-02,The Grey Hall,Copenhagen,Capital Region,Denmark,4.482
 august-03-1998-deer-creek-music-center-noblesville-in-usa,1998-08-03,Deer Creek Music Center,Noblesville,IN,USA,4.481
 august-08-1998-merriweather-post-pavilion-columbia-md-usa,1998-08-08,Merriweather Post Pavilion,Columbia,MD,USA,4.475
 november-07-1998-uic-pavilion-university-of-illinois-chicago-il-usa,1998-11-07,"UIC Pavilion, University of Illinois",Chicago,IL,USA,4.443
 november-29-1998-worcester-centrum-centre-worcester-ma-usa,1998-11-29,Worcester Centrum Centre,Worcester,MA,USA,4.438
-july-01-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-07-01,The Grey Hall,Copenhagen,,Denmark,4.429
+july-01-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-07-01,The Grey Hall,Copenhagen,Capital Region,Denmark,4.429
 august-14-1998-loring-commerce-centre-limestone-me-usa,1998-08-14,Loring Commerce Centre,Limestone,ME,USA,4.41
 november-09-1998-uic-pavilion-university-of-illinois-chicago-il-usa,1998-11-09,"UIC Pavilion, University of Illinois",Chicago,IL,USA,4.409
 july-28-1998-sandstone-amphitheatre-bonner-springs-ks-usa,1998-07-28,Sandstone Amphitheatre,Bonner Springs,KS,USA,4.396
 july-21-1998-desert-sky-pavilion-phoenix-az-usa,1998-07-21,Desert Sky Pavilion,Phoenix,AZ,USA,4.392
-july-09-1998-zeleste-barcelona-spain,1998-07-09,Zeleste,Barcelona,,Spain,4.345
+july-09-1998-zeleste-barcelona-spain,1998-07-09,Zeleste,Barcelona,Catalonia,Spain,4.345
 july-16-1998-gorge-amphitheatre-george-wa-usa,1998-07-16,Gorge Amphitheatre,George,WA,USA,4.33
 november-21-1998-hampton-coliseum-hampton-va-usa,1998-11-21,Hampton Coliseum,Hampton,VA,USA,4.326
 august-02-1998-deer-creek-music-center-noblesville-in-usa,1998-08-02,Deer Creek Music Center,Noblesville,IN,USA,4.306
@@ -45,7 +45,7 @@ november-20-1998-hampton-coliseum-hampton-va-usa,1998-11-20,Hampton Coliseum,Ham
 october-27-1998-ed-sullivan-theater-new-york-ny-usa,1998-10-27,Ed Sullivan Theater,New York,NY,USA,4.043
 november-24-1998-new-haven-veterans-memorial-coliseum-new-haven-ct-usa,1998-11-24,New Haven Veterans Memorial Coliseum,New Haven,CT,USA,4.026
 november-14-1998-the-crown-cincinnati-oh-usa,1998-11-14,The Crown,Cincinnati,OH,USA,3.986
-june-30-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-06-30,The Grey Hall,Copenhagen,,Denmark,3.968
+june-30-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-06-30,The Grey Hall,Copenhagen,Capital Region,Denmark,3.968
 december-30-1998-madison-square-garden-new-york-ny-usa,1998-12-30,Madison Square Garden,New York,NY,USA,3.944
 october-18-1998-shoreline-amphitheatre-mountain-view-ca-usa,1998-10-18,Shoreline Amphitheatre,Mountain View,CA,USA,3.943
 november-06-1998-kohl-center-madison-wi-usa,1998-11-06,Kohl Center,Madison,WI,USA,3.935
@@ -61,12 +61,12 @@ july-26-1998-starplex-amphitheatre-dallas-tx-usa,1998-07-26,Starplex Amphitheatr
 november-18-1998-bi-lo-center-greenville-sc-usa,1998-11-18,BI-LO Center,Greenville,SC,USA,3.765
 november-28-1998-worcester-centrum-centre-worcester-ma-usa,1998-11-28,Worcester Centrum Centre,Worcester,MA,USA,3.76
 november-25-1998-pepsi-arena-albany-ny-usa,1998-11-25,Pepsi Arena,Albany,NY,USA,3.722
-july-08-1998-zeleste-barcelona-spain,1998-07-08,Zeleste,Barcelona,,Spain,3.681
+july-08-1998-zeleste-barcelona-spain,1998-07-08,Zeleste,Barcelona,Catalonia,Spain,3.681
 november-04-1998-mcnichols-arena-denver-co-usa,1998-11-04,McNichols Arena,Denver,CO,USA,3.632
 october-15-1998-the-fillmore-san-francisco-ca-usa,1998-10-15,The Fillmore,San Francisco,CA,USA,3.617
 november-15-1998-murphy-center-middle-tennessee-state-university-murfreesboro-tn-usa,1998-11-15,"Murphy Center, Middle Tennessee State University",Murfreesboro,TN,USA,3.612
 november-03-1998-kbco-studios-boulder-co-usa,1998-11-03,KBCO Studio C,Boulder,CO,USA,3.429
-july-05-1998-lucerna-theatre-prague-czech-republic,1998-07-05,Lucerna Theatre,Prague,,Czech Republic,3.232
-july-10-1998-zeleste-barcelona-spain,1998-07-10,Zeleste,Barcelona,,Spain,3.08
-june-29-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-06-29,The Grey Hall,Copenhagen,,Denmark,2.833
-july-03-1998-dyrskuepladsen-ringe-fyn-denmark,1998-07-03,Dyrskuepladsen,"Ringe, Fyn",,Denmark,2.727
+july-05-1998-lucerna-theatre-prague-czech-republic,1998-07-05,Lucerna Theatre,Prague,Prague,Czech Republic,3.232
+july-10-1998-zeleste-barcelona-spain,1998-07-10,Zeleste,Barcelona,Catalonia,Spain,3.08
+june-29-1998-the-grey-hall-freetown-christiania-copenhagen-denmark,1998-06-29,The Grey Hall,Copenhagen,Capital Region,Denmark,2.833
+july-03-1998-dyrskuepladsen-ringe-fyn-denmark,1998-07-03,Dyrskuepladsen,Ringe,Southern Denmark,Denmark,2.727
