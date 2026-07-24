@@ -1,8 +1,8 @@
 show_id,date,venue,city,state,country,rating
 december-31-1999-big-cypress-seminole-indian-reservation-big-cypress-fl-usa,1999-12-31,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,4.703
-december-30-1999-big-cypress-seminole-indian-reservation-big-cypress-fl-usa,1999-12-30,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,4.641
-july-23-1999-polaris-amphitheater-columbus-oh-usa,1999-07-23,Polaris Amphitheater,Columbus,OH,USA,4.618
-july-25-1999-deer-creek-music-center-noblesville-in-usa,1999-07-25,Deer Creek Music Center,Noblesville,IN,USA,4.602
+december-30-1999-big-cypress-seminole-indian-reservation-big-cypress-fl-usa,1999-12-30,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,4.642
+july-23-1999-polaris-amphitheater-columbus-oh-usa,1999-07-23,Polaris Amphitheater,Columbus,OH,USA,4.619
+july-25-1999-deer-creek-music-center-noblesville-in-usa,1999-07-25,Deer Creek Music Center,Noblesville,IN,USA,4.604
 september-14-1999-boise-state-university-pavilion-boise-id-usa,1999-09-14,Boise State University Pavilion,Boise,ID,USA,4.602
 july-18-1999-oswego-county-airport-volney-ny-usa,1999-07-18,Oswego County Airport,Volney,NY,USA,4.584
 july-10-1999-e-centre-camden-nj-usa,1999-07-10,E Centre,Camden,NJ,USA,4.571
@@ -12,7 +12,7 @@ september-18-1999-coors-amphitheatre-chula-vista-ca-usa,1999-09-18,Coors Amphith
 september-29-1999-pyramid-arena-memphis-tn-usa,1999-09-29,Pyramid Arena,Memphis,TN,USA,4.522
 december-02-1999-the-palace-of-auburn-hills-auburn-hills-mi-usa,1999-12-02,The Palace of Auburn Hills,Auburn Hills,MI,USA,4.508
 july-15-1999-pnc-bank-arts-center-holmdel-nj-usa,1999-07-15,PNC Bank Arts Center,Holmdel,NJ,USA,4.498
-december-29-1999-big-cypress-seminole-indian-reservation-big-cypress-fl-usa,1999-12-29,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,4.48
+december-29-1999-big-cypress-seminole-indian-reservation-big-cypress-fl-usa,1999-12-29,Big Cypress Seminole Indian Reservation,Big Cypress,FL,USA,4.476
 september-12-1999-portland-meadows-portland-or-usa,1999-09-12,Portland Meadows,Portland,OR,USA,4.462
 july-04-1999-lakewood-amphitheatre-atlanta-ga-usa,1999-07-04,Lakewood Amphitheatre,Atlanta,GA,USA,4.449
 july-24-1999-alpine-valley-music-theatre-east-troy-wi-usa,1999-07-24,Alpine Valley Music Theatre,East Troy,WI,USA,4.414
@@ -40,7 +40,7 @@ september-21-1999-pima-county-fairgrounds-tucson-az-usa,1999-09-21,Pima County F
 july-20-1999-molson-amphitheatre-toronto-ontario-canada,1999-07-20,Molson Amphitheatre,Toronto,Ontario,Canada,4.009
 october-09-1999-pepsi-arena-albany-ny-usa,1999-10-09,Pepsi Arena,Albany,NY,USA,3.985
 june-30-1999-sandstone-amphitheatre-bonner-springs-ks-usa,1999-06-30,Sandstone Amphitheatre,Bonner Springs,KS,USA,3.965
-december-03-1999-firstar-center-cincinnati-oh-usa,1999-12-03,Firstar Center,Cincinnati,OH,USA,3.955
+december-03-1999-firstar-center-cincinnati-oh-usa,1999-12-03,Firstar Center,Cincinnati,OH,USA,3.963
 august-01-1999-naeba-ski-resort-niigata-japan,1999-08-01,Naeba Ski Resort,Niigata,Niigata,Japan,3.915
 october-01-1999-hilton-coliseum-ames-ia-usa,1999-10-01,Hilton Coliseum,Ames,IA,USA,3.899
 september-16-1999-shoreline-amphitheatre-mountain-view-ca-usa,1999-09-16,Shoreline Amphitheatre,Mountain View,CA,USA,3.881
@@ -49,7 +49,7 @@ december-13-1999-providence-civic-center-providence-ri-usa,1999-12-13,Providence
 july-09-1999-merriweather-post-pavilion-columbia-md-usa,1999-07-09,Merriweather Post Pavilion,Columbia,MD,USA,3.839
 july-30-1999-naeba-ski-resort-niigata-japan,1999-07-30,Naeba Ski Resort,Niigata,Niigata,Japan,3.795
 july-29-1999-naeba-ski-resort-niigata-japan,1999-07-29,Naeba Ski Resort,Niigata,Niigata,Japan,3.789
-july-26-1999-deer-creek-music-center-noblesville-in-usa,1999-07-26,Deer Creek Music Center,Noblesville,IN,USA,3.759
+july-26-1999-deer-creek-music-center-noblesville-in-usa,1999-07-26,Deer Creek Music Center,Noblesville,IN,USA,3.761
 july-08-1999-virginia-beach-amphitheater-virginia-beach-va-usa,1999-07-08,GTE Virginia Beach Amphitheater,Virginia Beach,VA,USA,3.741
 october-03-1999-allstate-arena-rosemont-il-usa,1999-10-03,Allstate Arena,Rosemont,IL,USA,3.738
 october-10-1999-pepsi-arena-albany-ny-usa,1999-10-10,Pepsi Arena,Albany,NY,USA,3.692
@@ -60,8 +60,8 @@ september-26-1999-kiefer-uno-lakefront-arena-university-of-new-orleans-new-orlea
 december-10-1999-first-union-spectrum-philadelphia-pa-usa,1999-12-10,First Union Spectrum,Philadelphia,PA,USA,3.613
 september-10-1999-gorge-amphitheatre-george-wa-usa,1999-09-10,Gorge Amphitheatre,George,WA,USA,3.596
 july-16-1999-pnc-bank-arts-center-holmdel-nj-usa,1999-07-16,PNC Bank Arts Center,Holmdel,NJ,USA,3.58
-december-04-1999-firstar-center-cincinnati-oh-usa,1999-12-04,Firstar Center,Cincinnati,OH,USA,3.576
 december-05-1999-bluecross-arena-rochester-ny-usa,1999-12-05,BlueCross Arena,Rochester,NY,USA,3.574
+december-04-1999-firstar-center-cincinnati-oh-usa,1999-12-04,Firstar Center,Cincinnati,OH,USA,3.571
 may-17-1999-the-flynn-theatre-burlington-vt-usa,1999-05-17,The Flynn Theatre,Burlington,VT,USA,3.556
 september-25-1999-cynthia-woods-mitchell-pavilion-the-woodlands-tx-usa,1999-09-25,Cynthia Woods Mitchell Pavilion,The Woodlands,TX,USA,3.378
 september-04-1999-chris-kurodas-wedding-stowe-vt-usa,1999-09-04,Chris Kuroda's Wedding,Stowe,VT,USA,3.357
