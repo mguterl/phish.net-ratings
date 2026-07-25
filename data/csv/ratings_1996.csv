@@ -2,7 +2,7 @@ show_id,date,venue,city,state,country,rating
 october-31-1996-the-omni-atlanta-ga-usa,1996-10-31,The Omni,Atlanta,GA,USA,4.638
 august-17-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-17,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.627
 december-06-1996-the-aladdin-theatre-las-vegas-nv-usa,1996-12-06,The Aladdin Theatre,Las Vegas,NV,USA,4.624
-august-13-1996-deer-creek-music-center-noblesville-in-usa,1996-08-13,Deer Creek Music Center,Noblesville,IN,USA,4.599
+august-13-1996-deer-creek-music-center-noblesville-in-usa,1996-08-13,Deer Creek Music Center,Noblesville,IN,USA,4.6
 august-16-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-16,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.572
 november-02-1996-coral-sky-amphitheater-west-palm-beach-fl-usa,1996-11-02,Coral Sky Amphitheater,West Palm Beach,FL,USA,4.558
 december-29-1996-corestates-spectrum-philadelphia-pa-usa,1996-12-29,CoreStates Spectrum,Philadelphia,PA,USA,4.526
@@ -37,8 +37,8 @@ july-23-1996-markthalle-hamburg-germany,1996-07-23,Markthalle,Hamburg,Hamburg,Ge
 april-26-1996-new-orleans-fairgrounds-new-orleans-la-usa,1996-04-26,New Orleans Fairgrounds,New Orleans,LA,USA,3.767
 october-25-1996-hampton-coliseum-hampton-va-usa,1996-10-25,Hampton Coliseum,Hampton,VA,USA,3.765
 october-26-1996-charlotte-coliseum-charlotte-nc-usa,1996-10-26,Charlotte Coliseum,Charlotte,NC,USA,3.763
+november-29-1996-the-cow-palace-daly-city-ca-usa,1996-11-29,The Cow Palace,Daly City,CA,USA,3.75
 november-09-1996-the-palace-of-auburn-hills-auburn-hills-mi-usa,1996-11-09,The Palace of Auburn Hills,Auburn Hills,MI,USA,3.745
-november-29-1996-the-cow-palace-daly-city-ca-usa,1996-11-29,The Cow Palace,Daly City,CA,USA,3.733
 november-13-1996-target-center-minneapolis-mn-usa,1996-11-13,Target Center,Minneapolis,MN,USA,3.73
 august-04-1996-red-rocks-amphitheatre-morrison-co-usa,1996-08-04,Red Rocks Amphitheatre,Morrison,CO,USA,3.724
 december-04-1996-sports-arena-san-diego-ca-usa,1996-12-04,Sports Arena,San Diego,CA,USA,3.698
