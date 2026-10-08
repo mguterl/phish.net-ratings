@@ -1,43 +1,40 @@
 show_id,date,venue,city,state,country,rating
-december-29-2018-madison-square-garden-new-york-ny-usa,2018-12-29,Madison Square Garden,New York,NY,USA,4.584
-december-30-2018-madison-square-garden-new-york-ny-usa,2018-12-30,Madison Square Garden,New York,NY,USA,4.58
-october-26-2018-allstate-arena-rosemont-il-usa,2018-10-26,Allstate Arena,Rosemont,IL,USA,4.564
-august-03-2018-verizon-wireless-amphitheatre-at-encore-park-alpharetta-ga-usa,2018-08-03,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,4.539
-october-19-2018-hampton-coliseum-hampton-va-usa,2018-10-19,Hampton Coliseum,Hampton,VA,USA,4.505
-october-31-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-10-31,MGM Grand Garden Arena,Las Vegas,NV,USA,4.501
-august-31-2018-dicks-sporting-goods-park-commerce-city-co-usa,2018-08-31,Dick's Sporting Goods Park,Commerce City,CO,USA,4.495
-august-12-2018-merriweather-post-pavilion-columbia-md-usa,2018-08-12,Merriweather Post Pavilion,Columbia,MD,USA,4.49
-november-02-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-11-02,MGM Grand Garden Arena,Las Vegas,NV,USA,4.484
-july-22-2018-gorge-amphitheatre-george-wa-usa,2018-07-22,Gorge Amphitheatre,George,WA,USA,4.481
-august-05-2018-verizon-wireless-amphitheatre-at-encore-park-alpharetta-ga-usa,2018-08-05,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,4.435
-november-03-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-11-03,MGM Grand Garden Arena,Las Vegas,NV,USA,4.411
-july-24-2018-bill-graham-civic-auditorium-san-francisco-ca-usa,2018-07-24,Bill Graham Civic Auditorium,San Francisco,CA,USA,4.353
-august-04-2018-verizon-wireless-amphitheatre-at-encore-park-alpharetta-ga-usa,2018-08-04,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,4.3
-august-10-2018-coastal-credit-union-music-park-at-walnut-creek-raleigh-nc-usa,2018-08-10,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,4.245
-november-01-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-11-01,MGM Grand Garden Arena,Las Vegas,NV,USA,4.239
-december-31-2018-madison-square-garden-new-york-ny-usa,2018-12-31,Madison Square Garden,New York,NY,USA,4.231
-september-02-2018-dicks-sporting-goods-park-commerce-city-co-usa,2018-09-02,Dick's Sporting Goods Park,Commerce City,CO,USA,4.207
-october-21-2018-hampton-coliseum-hampton-va-usa,2018-10-21,Hampton Coliseum,Hampton,VA,USA,4.196
-october-23-2018-ascend-amphitheater-nashville-tn-usa,2018-10-23,Ascend Amphitheater,Nashville,TN,USA,4.178
-october-20-2018-hampton-coliseum-hampton-va-usa,2018-10-20,Hampton Coliseum,Hampton,VA,USA,4.176
-october-28-2018-allstate-arena-rosemont-il-usa,2018-10-28,Allstate Arena,Rosemont,IL,USA,4.166
-july-27-2018-the-forum-inglewood-ca-usa,2018-07-27,The Forum,Inglewood,CA,USA,4.142
-october-16-2018-times-union-center-albany-ny-usa,2018-10-16,Times Union Center,Albany,NY,USA,4.127
-october-27-2018-allstate-arena-rosemont-il-usa,2018-10-27,Allstate Arena,Rosemont,IL,USA,4.108
-july-20-2018-gorge-amphitheatre-george-wa-usa,2018-07-20,Gorge Amphitheatre,George,WA,USA,4.092
-september-01-2018-dicks-sporting-goods-park-commerce-city-co-usa,2018-09-01,Dick's Sporting Goods Park,Commerce City,CO,USA,4.01
-august-08-2018-bbt-pavilion-camden-nj-usa,2018-08-08,BB&T Pavilion,Camden,NJ,USA,3.788
-july-25-2018-bill-graham-civic-auditorium-san-francisco-ca-usa,2018-07-25,Bill Graham Civic Auditorium,San Francisco,CA,USA,3.782
-july-28-2018-the-forum-inglewood-ca-usa,2018-07-28,The Forum,Inglewood,CA,USA,3.737
-october-24-2018-ascend-amphitheater-nashville-tn-usa,2018-10-24,Ascend Amphitheater,Nashville,TN,USA,3.729
-july-17-2018-lake-tahoe-outdoor-arena-at-harveys-stateline-nv-usa,2018-07-17,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,3.683
-july-21-2018-gorge-amphitheatre-george-wa-usa,2018-07-21,Gorge Amphitheatre,George,WA,USA,3.652
-october-17-2018-times-union-center-albany-ny-usa,2018-10-17,Times Union Center,Albany,NY,USA,3.645
-august-07-2018-bbt-pavilion-camden-nj-usa,2018-08-07,BB&T Pavilion,Camden,NJ,USA,3.606
-july-31-2018-austin360-amphitheater-del-valle-tx-usa,2018-07-31,Austin360 Amphitheater,Del Valle,TX,USA,3.575
-december-28-2018-madison-square-garden-new-york-ny-usa,2018-12-28,Madison Square Garden,New York,NY,USA,3.556
-august-11-2018-merriweather-post-pavilion-columbia-md-usa,2018-08-11,Merriweather Post Pavilion,Columbia,MD,USA,3.414
-july-18-2018-lake-tahoe-outdoor-arena-at-harveys-stateline-nv-usa,2018-07-18,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,3.384
-august-19-2018-watkins-glen-international-watkins-glen-ny-usa,2018-08-19,Watkins Glen International,Watkins Glen,NY,USA,2.962
-august-18-2018-watkins-glen-international-watkins-glen-ny-usa,2018-08-18,Watkins Glen International,Watkins Glen,NY,USA,2.778
-august-17-2018-watkins-glen-international-watkins-glen-ny-usa,2018-08-17,Watkins Glen International,Watkins Glen,NY,USA,2.429
+october-26-2018-allstate-arena-rosemont-il-usa,2018-10-26,Allstate Arena,Rosemont,IL,USA,4.649
+december-29-2018-madison-square-garden-new-york-ny-usa,2018-12-29,Madison Square Garden,New York,NY,USA,4.629
+december-30-2018-madison-square-garden-new-york-ny-usa,2018-12-30,Madison Square Garden,New York,NY,USA,4.62
+august-03-2018-verizon-wireless-amphitheatre-at-encore-park-alpharetta-ga-usa,2018-08-03,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,4.602
+november-02-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-11-02,MGM Grand Garden Arena,Las Vegas,NV,USA,4.571
+october-31-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-10-31,MGM Grand Garden Arena,Las Vegas,NV,USA,4.561
+august-31-2018-dicks-sporting-goods-park-commerce-city-co-usa,2018-08-31,Dick's Sporting Goods Park,Commerce City,CO,USA,4.549
+august-12-2018-merriweather-post-pavilion-columbia-md-usa,2018-08-12,Merriweather Post Pavilion,Columbia,MD,USA,4.536
+october-19-2018-hampton-coliseum-hampton-va-usa,2018-10-19,Hampton Coliseum,Hampton,VA,USA,4.456
+july-22-2018-gorge-amphitheatre-george-wa-usa,2018-07-22,Gorge Amphitheatre,George,WA,USA,4.447
+november-03-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-11-03,MGM Grand Garden Arena,Las Vegas,NV,USA,4.308
+august-05-2018-verizon-wireless-amphitheatre-at-encore-park-alpharetta-ga-usa,2018-08-05,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,4.296
+july-24-2018-bill-graham-civic-auditorium-san-francisco-ca-usa,2018-07-24,Bill Graham Civic Auditorium,San Francisco,CA,USA,4.177
+november-01-2018-mgm-grand-garden-arena-las-vegas-nv-usa,2018-11-01,MGM Grand Garden Arena,Las Vegas,NV,USA,4.107
+august-04-2018-verizon-wireless-amphitheatre-at-encore-park-alpharetta-ga-usa,2018-08-04,Verizon Wireless Amphitheatre at Encore Park,Alpharetta,GA,USA,4.035
+august-10-2018-coastal-credit-union-music-park-at-walnut-creek-raleigh-nc-usa,2018-08-10,Coastal Credit Union Music Park at Walnut Creek,Raleigh,NC,USA,4.028
+october-23-2018-ascend-amphitheater-nashville-tn-usa,2018-10-23,Ascend Amphitheater,Nashville,TN,USA,3.984
+july-27-2018-the-forum-inglewood-ca-usa,2018-07-27,The Forum,Inglewood,CA,USA,3.972
+october-21-2018-hampton-coliseum-hampton-va-usa,2018-10-21,Hampton Coliseum,Hampton,VA,USA,3.905
+september-02-2018-dicks-sporting-goods-park-commerce-city-co-usa,2018-09-02,Dick's Sporting Goods Park,Commerce City,CO,USA,3.894
+december-31-2018-madison-square-garden-new-york-ny-usa,2018-12-31,Madison Square Garden,New York,NY,USA,3.887
+october-20-2018-hampton-coliseum-hampton-va-usa,2018-10-20,Hampton Coliseum,Hampton,VA,USA,3.881
+october-16-2018-times-union-center-albany-ny-usa,2018-10-16,Times Union Center,Albany,NY,USA,3.74
+july-20-2018-gorge-amphitheatre-george-wa-usa,2018-07-20,Gorge Amphitheatre,George,WA,USA,3.681
+october-27-2018-allstate-arena-rosemont-il-usa,2018-10-27,Allstate Arena,Rosemont,IL,USA,3.675
+october-28-2018-allstate-arena-rosemont-il-usa,2018-10-28,Allstate Arena,Rosemont,IL,USA,3.671
+september-01-2018-dicks-sporting-goods-park-commerce-city-co-usa,2018-09-01,Dick's Sporting Goods Park,Commerce City,CO,USA,3.583
+july-28-2018-the-forum-inglewood-ca-usa,2018-07-28,The Forum,Inglewood,CA,USA,3.261
+july-17-2018-lake-tahoe-outdoor-arena-at-harveys-stateline-nv-usa,2018-07-17,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,3.248
+july-25-2018-bill-graham-civic-auditorium-san-francisco-ca-usa,2018-07-25,Bill Graham Civic Auditorium,San Francisco,CA,USA,3.248
+october-24-2018-ascend-amphitheater-nashville-tn-usa,2018-10-24,Ascend Amphitheater,Nashville,TN,USA,3.212
+august-08-2018-bbt-pavilion-camden-nj-usa,2018-08-08,BB&T Pavilion,Camden,NJ,USA,3.201
+july-31-2018-austin360-amphitheater-del-valle-tx-usa,2018-07-31,Austin360 Amphitheater,Del Valle,TX,USA,3.089
+october-17-2018-times-union-center-albany-ny-usa,2018-10-17,Times Union Center,Albany,NY,USA,3.051
+july-21-2018-gorge-amphitheatre-george-wa-usa,2018-07-21,Gorge Amphitheatre,George,WA,USA,2.999
+august-07-2018-bbt-pavilion-camden-nj-usa,2018-08-07,BB&T Pavilion,Camden,NJ,USA,2.91
+july-18-2018-lake-tahoe-outdoor-arena-at-harveys-stateline-nv-usa,2018-07-18,Lake Tahoe Outdoor Arena at Harveys,Stateline,NV,USA,2.817
+december-28-2018-madison-square-garden-new-york-ny-usa,2018-12-28,Madison Square Garden,New York,NY,USA,2.752
+august-11-2018-merriweather-post-pavilion-columbia-md-usa,2018-08-11,Merriweather Post Pavilion,Columbia,MD,USA,2.652
