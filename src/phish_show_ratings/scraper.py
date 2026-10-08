@@ -1,3 +1,9 @@
+import json
+import math
+import re
+from datetime import date
+from typing import Any
+
 import httpx
 from selectolax.parser import HTMLParser
 
@@ -11,36 +17,61 @@ def extract_show_id(href: str) -> str:
 
 def parse_shows(html: str, year: int) -> list[Show]:
     parser = HTMLParser(html)
-    table = parser.css_first("#ratings-list")
-    if not table:
-        return []
-
-    shows = []
-    for row in table.css("tbody tr"):
-        cells = row.css("td")
-        if len(cells) < 7:
+    for script in parser.css("script"):
+        text = script.text()
+        match = re.search(r"\bPhishNet\.State\s*=\s*", text)
+        if match is None:
             continue
+        try:
+            state, _ = json.JSONDecoder().raw_decode(text[match.end() :].lstrip())
+            rows = state["top_rated_shows_data"]
+            if not isinstance(rows, list):
+                raise ValueError("Ratings data must be a list")
+            shows = [_parse_show(row, year) for row in rows]
+            if len({show.show_id for show in shows}) != len(shows):
+                raise ValueError("Duplicate show IDs")
+            return shows
+        except (KeyError, TypeError, ValueError) as exc:
+            raise ValueError(f"Invalid ratings data for {year}: {exc}") from exc
+    raise ValueError(f"Missing PhishNet.State ratings data for {year}")
 
-        link = cells[1].css_first("a")
-        if not link:
-            continue
 
-        href = link.attributes.get("href", "")
-        if not href:
-            continue
+def _parse_show(row: Any, year: int) -> Show:
+    def string(key: str, *, optional: bool = False) -> str | None:
+        value = row[key]
+        if optional and value in (None, ""):
+            return None
+        if not isinstance(value, str) or not value.strip():
+            raise ValueError(f"Invalid {key}")
+        return value
 
-        shows.append(Show(
-            show_id=extract_show_id(href),
-            date=cells[1].text(strip=True),
-            venue=cells[2].text(strip=True),
-            city=cells[4].text(strip=True) or None,
-            state=cells[5].text(strip=True) or None,
-            country=cells[6].text(strip=True) or None,
-            rating=float(cells[0].text(strip=True)),
-            year=year,
-        ))
-
-    return shows
+    show_date = string("showDate")
+    href = string("showUrl")
+    venue = string("venue")
+    assert show_date is not None and href is not None and venue is not None
+    if date.fromisoformat(show_date).year != year:
+        raise ValueError("Show date does not match requested year")
+    if not href.startswith("/setlists/phish-") or not href.endswith(".html"):
+        raise ValueError("Invalid show URL")
+    rating = row["rating"]
+    if (
+        isinstance(rating, bool)
+        or not isinstance(rating, (int, float))
+        or not math.isfinite(rating)
+        or not 0 <= rating <= 5
+    ):
+        raise ValueError("Invalid rating")
+    # Preserve the three-decimal precision of the original displayed ratings.
+    return Show(
+        show_id=extract_show_id(href),
+        date=show_date,
+        venue=venue,
+        city=string("city", optional=True),
+        state=string("state", optional=True),
+        country=string("country", optional=True),
+        rating=round(rating, 3),
+        year=year,
+    )
 
 
 def fetch_year(year: int, client: httpx.Client | None = None) -> str:

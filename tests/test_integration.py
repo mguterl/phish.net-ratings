@@ -10,54 +10,42 @@ from phish_show_ratings.db import get_shows_by_year, get_years, init_db, upsert_
 from phish_show_ratings.export import write_csv
 from phish_show_ratings.scraper import fetch_year, parse_shows
 
-MOCK_HTML_2024 = """
-<html>
-<body>
-<table id="ratings-list">
-    <tbody>
-        <tr>
-            <td>4.618</td>
-            <td><a href="/setlists/phish-december-29-2024-msg.html">2024-12-29</a></td>
-            <td>Madison Square Garden</td>
-            <td>Extra</td>
-            <td>New York</td>
-            <td>NY</td>
-            <td>USA</td>
-        </tr>
-        <tr>
-            <td>4.500</td>
-            <td><a href="/setlists/phish-december-28-2024-msg.html">2024-12-28</a></td>
-            <td>Madison Square Garden</td>
-            <td>Extra</td>
-            <td>New York</td>
-            <td>NY</td>
-            <td>USA</td>
-        </tr>
-    </tbody>
-</table>
-</body>
-</html>
-"""
+MOCK_HTML_2024 = """<script>PhishNet.State = {
+  "top_rated_shows_data": [
+    {
+      "rating": 4.618,
+      "showDate": "2024-12-29",
+      "showUrl": "/setlists/phish-december-29-2024-msg.html",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "rating": 4.5,
+      "showDate": "2024-12-28",
+      "showUrl": "/setlists/phish-december-28-2024-msg.html",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ]
+};</script>"""
 
-MOCK_HTML_2023 = """
-<html>
-<body>
-<table id="ratings-list">
-    <tbody>
-        <tr>
-            <td>4.750</td>
-            <td><a href="/setlists/phish-december-31-2023-msg.html">2023-12-31</a></td>
-            <td>Madison Square Garden</td>
-            <td>Extra</td>
-            <td>New York</td>
-            <td>NY</td>
-            <td>USA</td>
-        </tr>
-    </tbody>
-</table>
-</body>
-</html>
-"""
+MOCK_HTML_2023 = """<script>PhishNet.State = {
+  "top_rated_shows_data": [
+    {
+      "rating": 4.75,
+      "showDate": "2023-12-31",
+      "showUrl": "/setlists/phish-december-31-2023-msg.html",
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ]
+};</script>"""
 
 
 @pytest.fixture

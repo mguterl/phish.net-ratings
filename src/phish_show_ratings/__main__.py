@@ -1,3 +1,4 @@
+import csv
 import time
 from contextlib import closing
 from datetime import datetime
@@ -7,6 +8,10 @@ from .db import get_shows_by_year, get_years, init_db, upsert_shows
 from .export import write_csv
 from .logging import setup_logging, timed
 from .scraper import fetch_year, parse_shows
+
+# The current ratings page excludes private shows from hiatus years. Preserve
+# archived CSVs for those years, which may contain previously listed private gigs.
+HIATUS_YEARS = {2001, 2005, 2006, 2007, 2008}
 
 
 def main() -> None:
@@ -21,6 +26,13 @@ def main() -> None:
             with timed() as t:
                 html = fetch_year(year)
                 shows = parse_shows(html, year)
+                path = CSV_DIR / f"ratings_{year}.csv"
+                if not shows and year not in HIATUS_YEARS and path.exists():
+                    with path.open(newline="") as existing:
+                        if any(csv.DictReader(existing)):
+                            raise ValueError(
+                                f"No shows found for populated year {year}"
+                            )
                 upsert_shows(conn, shows)
 
             if not shows:
@@ -32,6 +44,8 @@ def main() -> None:
 
             time.sleep(1)
 
+        if total_shows == 0:
+            raise ValueError("Scrape returned zero shows; refusing to export")
         conn.commit()
 
         for year in get_years(conn):
