@@ -81,6 +81,11 @@ def test_parse_shows_optional_location(show_row):
     assert (show.city, show.state, show.country) == (None, None, None)
 
 
+def test_parse_shows_rounds_like_displayed_rating(show_row):
+    show_row["rating"] = 3.7055
+    assert parse_shows(ratings_html([show_row]), 2024)[0].rating == 3.706
+
+
 @pytest.mark.parametrize(
     "key,value",
     [

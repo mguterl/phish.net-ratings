@@ -2,6 +2,7 @@ import json
 import math
 import re
 from datetime import date
+from decimal import ROUND_HALF_UP, Decimal
 from typing import Any
 
 import httpx
@@ -69,7 +70,7 @@ def _parse_show(row: Any, year: int) -> Show:
         city=string("city", optional=True),
         state=string("state", optional=True),
         country=string("country", optional=True),
-        rating=round(rating, 3),
+        rating=float(Decimal(str(rating)).quantize(Decimal("0.001"), ROUND_HALF_UP)),
         year=year,
     )
 
