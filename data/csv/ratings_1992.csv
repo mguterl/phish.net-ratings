@@ -1,12 +1,12 @@
 show_id,date,venue,city,state,country,rating
 march-20-1992-broome-county-forum-binghamton-ny-usa,1992-03-20,Broome County Forum,Binghamton,NY,USA,4.483
-april-16-1992-anaconda-theatre-isla-vista-ca-usa,1992-04-16,Anaconda Theatre,Isla Vista,CA,USA,4.426
-march-13-1992-campus-club-providence-ri-usa,1992-03-13,Campus Club,Providence,RI,USA,4.339
+april-16-1992-anaconda-theatre-isla-vista-ca-usa,1992-04-16,Anaconda Theatre,Isla Vista,CA,USA,4.425
+march-13-1992-campus-club-providence-ri-usa,1992-03-13,Campus Club,Providence,RI,USA,4.338
 may-17-1992-achilles-rink-union-college-schenectady-ny-usa,1992-05-17,"Achilles Rink, Union College",Schenectady,NY,USA,4.282
-april-18-1992-wilbur-field-stanford-university-palo-alto-ca-usa,1992-04-18,"Wilbur Field, Stanford University",Palo Alto,CA,USA,4.259
-april-21-1992-redwood-acres-fairgrounds-eureka-ca-usa,1992-04-21,Redwood Acres Fairgrounds,Eureka,CA,USA,4.251
+april-18-1992-wilbur-field-stanford-university-palo-alto-ca-usa,1992-04-18,"Wilbur Field, Stanford University",Palo Alto,CA,USA,4.258
 december-12-1992-the-spectrum-toronto-ontario-canada,1992-12-12,The Spectrum,Toronto,Ontario,Canada,4.251
-november-19-1992-ross-arena-st-michaels-college-colchester-vt-usa,1992-11-19,"Ross Arena, St. Michael's College",Colchester,VT,USA,4.233
+april-21-1992-redwood-acres-fairgrounds-eureka-ca-usa,1992-04-21,Redwood Acres Fairgrounds,Eureka,CA,USA,4.25
+november-19-1992-ross-arena-st-michaels-college-colchester-vt-usa,1992-11-19,"Ross Arena, St. Michael's College",Colchester,VT,USA,4.232
 april-17-1992-warfield-theatre-san-francisco-ca-usa,1992-04-17,Warfield Theatre,San Francisco,CA,USA,4.223
 july-25-1992-stowe-performing-arts-center-stowe-vt-usa,1992-07-25,Stowe Performing Arts Center,Stowe,VT,USA,4.178
 december-30-1992-symphony-hall-springfield-ma-usa,1992-12-30,Symphony Hall,Springfield,MA,USA,4.14
@@ -15,7 +15,7 @@ may-14-1992-the-capitol-theatre-port-chester-ny-usa,1992-05-14,The Capitol Theat
 november-28-1992-the-capitol-theatre-port-chester-ny-usa,1992-11-28,The Capitol Theatre,Port Chester,NY,USA,4.127
 november-20-1992-palace-theatre-albany-ny-usa,1992-11-20,Palace Theatre,Albany,NY,USA,4.112
 march-06-1992-the-music-hall-portsmouth-nh-usa,1992-03-06,The Music Hall,Portsmouth,NH,USA,4.068
-april-30-1992-barrymore-theatre-madison-wi-usa,1992-04-30,Barrymore Theatre,Madison,WI,USA,4.057
+april-30-1992-barrymore-theatre-madison-wi-usa,1992-04-30,Barrymore Theatre,Madison,WI,USA,4.058
 november-27-1992-the-capitol-theatre-port-chester-ny-usa,1992-11-27,The Capitol Theatre,Port Chester,NY,USA,4.056
 april-19-1992-the-catalyst-santa-cruz-ca-usa,1992-04-19,The Catalyst,Santa Cruz,CA,USA,4.056
 november-22-1992-bailey-hall-cornell-university-ithaca-ny-usa,1992-11-22,"Bailey Hall, Cornell University",Ithaca,NY,USA,4.04
@@ -58,7 +58,7 @@ april-15-1992-variety-arts-center-los-angeles-ca-usa,1992-04-15,Variety Arts Cen
 july-26-1992-big-birch-concert-pavilion-patterson-ny-usa,1992-07-26,Big Birch Concert Pavilion,Patterson,NY,USA,3.697
 march-14-1992-roseland-ballroom-new-york-ny-usa,1992-03-14,Roseland Ballroom,New York,NY,USA,3.696
 march-31-1992-the-blue-note-columbia-mo-usa,1992-03-31,The Blue Note,Columbia,MO,USA,3.695
-april-08-1992-el-rey-theater-albuquerque-nm-usa,1992-04-08,El Rey Theater,Albuquerque,NM,USA,3.691
+april-08-1992-el-rey-theater-albuquerque-nm-usa,1992-04-08,El Rey Theater,Albuquerque,NM,USA,3.692
 march-25-1992-trax-charlottesville-va-usa,1992-03-25,Trax,Charlottesville,VA,USA,3.69
 december-13-1992-le-spectrum-montral-qubec-canada,1992-12-13,Le Spectrum,Montréal,Quebec,Canada,3.689
 march-30-1992-mississippi-nights-st-louis-mo-usa,1992-03-30,Mississippi Nights,St. Louis,MO,USA,3.687
@@ -67,7 +67,7 @@ december-01-1992-livingston-gymnasium-denison-university-granville-oh-usa,1992-1
 august-20-1992-pan-american-center-las-cruces-nm-usa,1992-08-20,Pan American Center,Las Cruces,NM,USA,3.68
 march-27-1992-13x13-club-charlotte-nc-usa,1992-03-27,1313 Club,Charlotte,NC,USA,3.68
 december-28-1992-palace-theatre-new-haven-ct-usa,1992-12-28,Palace Theatre,New Haven,CT,USA,3.68
-july-31-1992-blossom-music-center-cuyahoga-falls-oh-usa,1992-07-31,Blossom Music Center,Cuyahoga Falls,OH,USA,3.679
+july-31-1992-blossom-music-center-cuyahoga-falls-oh-usa,1992-07-31,Blossom Music Center,Cuyahoga Falls,OH,USA,3.68
 august-23-1992-colorado-state-fair-pueblo-state-fairgrounds-pueblo-co-usa,1992-08-23,"Colorado State Fair, Pueblo State Fairgrounds",Pueblo,CO,USA,3.677
 november-25-1992-keswick-theatre-glenside-pa-usa,1992-11-25,Keswick Theatre,Glenside,PA,USA,3.67
 may-12-1992-st-lawrence-university-canton-ny-usa,1992-05-12,St. Lawrence University,Canton,NY,USA,3.666
@@ -83,7 +83,7 @@ may-01-1992-the-rave-milwaukee-wi-usa,1992-05-01,The Rave,Milwaukee,WI,USA,3.628
 december-02-1992-newport-music-hall-columbus-oh-usa,1992-12-02,Newport Music Hall,Columbus,OH,USA,3.627
 july-03-1992-brixton-academy-london-england,1992-07-03,Brixton Academy,London,England,United Kingdom,3.626
 june-28-1992-roskilde-festival-roskilde-denmark,1992-06-28,Roskilde Festival,Roskilde,Region Zealand,Denmark,3.617
-august-29-1992-shoreline-amphitheatre-mountain-view-ca-usa,1992-08-29,Shoreline Amphitheatre,Mountain View,CA,USA,3.611
+august-29-1992-shoreline-amphitheatre-mountain-view-ca-usa,1992-08-29,Shoreline Amphitheatre,Mountain View,CA,USA,3.612
 april-05-1992-the-fox-theatre-boulder-co-usa,1992-04-05,The Fox Theatre,Boulder,CO,USA,3.607
 march-12-1992-the-flynn-theatre-burlington-vt-usa,1992-03-12,The Flynn Theatre,Burlington,VT,USA,3.605
 may-16-1992-the-orpheum-theatre-boston-ma-usa,1992-05-16,The Orpheum Theatre,Boston,MA,USA,3.598
