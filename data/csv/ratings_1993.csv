@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.747
+december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.746
 may-08-1993-field-house-university-of-new-hampshire-durham-nh-usa,1993-05-08,"Field House, University of New Hampshire",Durham,NH,USA,4.614
 august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.609
 august-14-1993-world-music-theatre-tinley-park-il-usa,1993-08-14,World Music Theatre,Tinley Park,IL,USA,4.597
@@ -8,14 +8,14 @@ february-20-1993-roxy-theatre-atlanta-ga-usa,1993-02-20,Roxy Theatre,Atlanta,GA,
 march-22-1993-crest-theatre-sacramento-ca-usa,1993-03-22,Crest Theatre,Sacramento,CA,USA,4.514
 august-26-1993-arlene-schnitzer-concert-hall-portland-or-usa,1993-08-26,Arlene Schnitzer Concert Hall,Portland,OR,USA,4.492
 august-16-1993-american-theater-st-louis-mo-usa,1993-08-16,American Theater,St. Louis,MO,USA,4.441
-august-20-1993-red-rocks-amphitheatre-morrison-co-usa,1993-08-20,Red Rocks Amphitheatre,Morrison,CO,USA,4.437
+august-20-1993-red-rocks-amphitheatre-morrison-co-usa,1993-08-20,Red Rocks Amphitheatre,Morrison,CO,USA,4.438
 august-07-1993-darien-lake-performing-arts-center-darien-center-ny-usa,1993-08-07,Darien Lake Performing Arts Center,Darien Center,NY,USA,4.38
 august-28-1993-william-randolph-hearst-greek-theatre-berkeley-ca-usa,1993-08-28,"William Randolph Hearst Greek Theatre, University of California, Berkeley ",Berkeley,CA,USA,4.366
 august-15-1993-the-macauley-theater-louisville-ky-usa,1993-08-15,The Macauley Theater,Louisville,KY,USA,4.289
 may-05-1993-palace-theatre-albany-ny-usa,1993-05-05,Palace Theatre,Albany,NY,USA,4.279
 august-02-1993-ritz-theatre-tampa-fl-usa,1993-08-02,Ritz Theatre,Tampa,FL,USA,4.276
-may-06-1993-palace-theatre-albany-ny-usa,1993-05-06,Palace Theatre,Albany,NY,USA,4.275
-august-17-1993-memorial-hall-kansas-city-ks-usa,1993-08-17,Memorial Hall,Kansas City,KS,USA,4.266
+may-06-1993-palace-theatre-albany-ny-usa,1993-05-06,Palace Theatre,Albany,NY,USA,4.274
+august-17-1993-memorial-hall-kansas-city-ks-usa,1993-08-17,Memorial Hall,Kansas City,KS,USA,4.267
 august-12-1993-meadow-brook-music-festival-rochester-hills-mi-usa,1993-08-12,Meadow Brook Music Festival,Rochester Hills,MI,USA,4.216
 april-14-1993-american-theater-st-louis-mo-usa,1993-04-14,American Theater,St. Louis,MO,USA,4.2
 august-21-1993-saltair-pavilion-salt-lake-city-ut-usa,1993-08-21,Saltair Pavilion,Salt Lake City,UT,USA,4.198
@@ -28,8 +28,8 @@ august-24-1993-commodore-ballroom-vancouver-british-columbia-canada,1993-08-24,C
 march-13-1993-balch-fieldhouse-university-of-colorado-boulder-co-usa,1993-03-13,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,4.024
 february-19-1993-roxy-theatre-atlanta-ga-usa,1993-02-19,Roxy Theatre,Atlanta,GA,USA,4.016
 march-25-1993-santa-cruz-civic-auditorium-santa-cruz-ca-usa,1993-03-25,Santa Cruz Civic Auditorium,Santa Cruz,CA,USA,4.008
-february-12-1993-mid-hudson-civic-center-poughkeepsie-ny-usa,1993-02-12,Mid-Hudson Civic Center,Poughkeepsie,NY,USA,4.007
 august-06-1993-cincinnati-zoo-peacock-pavilion-cincinnati-oh-usa,1993-08-06,Cincinnati Zoo Peacock Pavilion,Cincinnati,OH,USA,4.007
+february-12-1993-mid-hudson-civic-center-poughkeepsie-ny-usa,1993-02-12,Mid-Hudson Civic Center,Poughkeepsie,NY,USA,4.007
 august-11-1993-eastbrook-theatre-grand-rapids-mi-usa,1993-08-11,Eastbrook Theatre,Grand Rapids,MI,USA,4.004
 march-27-1993-warfield-theatre-san-francisco-ca-usa,1993-03-27,Warfield Theatre,San Francisco,CA,USA,3.995
 march-09-1993-pikes-peak-center-colorado-springs-co-usa,1993-03-09,Pike's Peak Center,Colorado Springs,CO,USA,3.984
@@ -107,6 +107,6 @@ april-24-1993-cheel-arena-clarkson-university-potsdam-ny-usa,1993-04-24,"Cheel A
 july-22-1993-stowe-performing-arts-center-stowe-vt-usa,1993-07-22,Stowe Performing Arts Center,Stowe,VT,USA,3.398
 february-22-1993-the-moon-tallahassee-fl-usa,1993-02-22,The Moon,Tallahassee,FL,USA,3.39
 february-11-1993-haas-center-for-the-arts-bloomsburg-pa-usa,1993-02-11,Haas Center for the Arts,Bloomsburg,PA,USA,3.389
-july-27-1993-classic-amphitheater-richmond-va-usa,1993-07-27,Classic Amphitheater,Richmond,VA,USA,3.353
+july-27-1993-classic-amphitheater-richmond-va-usa,1993-07-27,Classic Amphitheater,Richmond,VA,USA,3.352
 august-03-1993-bayfront-park-amphitheater-miami-fl-usa,1993-08-03,Bayfront Park Amphitheater,Miami,FL,USA,3.229
 july-21-1993-orange-county-fairgrounds-middletown-ny-usa,1993-07-21,Orange County Fairgrounds,Middletown,NY,USA,3.211

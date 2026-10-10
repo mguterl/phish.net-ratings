@@ -1,17 +1,17 @@
 show_id,date,venue,city,state,country,rating
-november-22-1997-hampton-coliseum-hampton-va-usa,1997-11-22,Hampton Coliseum,Hampton,VA,USA,4.804
-november-17-1997-mcnichols-arena-denver-co-usa,1997-11-17,McNichols Arena,Denver,CO,USA,4.775
-august-17-1997-loring-commerce-centre-limestone-me-usa,1997-08-17,Loring Commerce Centre,Limestone,ME,USA,4.771
-december-30-1997-madison-square-garden-new-york-ny-usa,1997-12-30,Madison Square Garden,New York,NY,USA,4.76
+november-22-1997-hampton-coliseum-hampton-va-usa,1997-11-22,Hampton Coliseum,Hampton,VA,USA,4.803
+november-17-1997-mcnichols-arena-denver-co-usa,1997-11-17,McNichols Arena,Denver,CO,USA,4.774
+august-17-1997-loring-commerce-centre-limestone-me-usa,1997-08-17,Loring Commerce Centre,Limestone,ME,USA,4.77
+december-30-1997-madison-square-garden-new-york-ny-usa,1997-12-30,Madison Square Garden,New York,NY,USA,4.759
 december-06-1997-the-palace-of-auburn-hills-auburn-hills-mi-usa,1997-12-06,The Palace of Auburn Hills,Auburn Hills,MI,USA,4.75
 july-02-1997-paradiso-amsterdam-netherlands,1997-07-02,Paradiso,Amsterdam,North Holland,Netherlands,4.702
 december-07-1997-ervin-j-nutter-center-wright-state-university-dayton-oh-usa,1997-12-07,"Ervin J. Nutter Center, Wright State University",Dayton,OH,USA,4.695
 november-21-1997-hampton-coliseum-hampton-va-usa,1997-11-21,Hampton Coliseum,Hampton,VA,USA,4.689
-july-01-1997-paradiso-amsterdam-netherlands,1997-07-01,Paradiso,Amsterdam,North Holland,Netherlands,4.684
-december-11-1997-rochester-war-memorial-rochester-ny-usa,1997-12-11,Rochester War Memorial,Rochester,NY,USA,4.663
+july-01-1997-paradiso-amsterdam-netherlands,1997-07-01,Paradiso,Amsterdam,North Holland,Netherlands,4.685
+december-11-1997-rochester-war-memorial-rochester-ny-usa,1997-12-11,Rochester War Memorial,Rochester,NY,USA,4.662
 february-17-1997-paradiso-amsterdam-netherlands,1997-02-17,Paradiso,Amsterdam,North Holland,Netherlands,4.656
 december-29-1997-madison-square-garden-new-york-ny-usa,1997-12-29,Madison Square Garden,New York,NY,USA,4.648
-august-16-1997-loring-commerce-centre-limestone-me-usa,1997-08-16,Loring Commerce Centre,Limestone,ME,USA,4.623
+august-16-1997-loring-commerce-centre-limestone-me-usa,1997-08-16,Loring Commerce Centre,Limestone,ME,USA,4.622
 november-23-1997-lawrence-joel-veterans-memorial-coliseum-winston-salem-nc-usa,1997-11-23,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,4.614
 december-02-1997-corestates-spectrum-philadelphia-pa-usa,1997-12-02,CoreStates Spectrum,Philadelphia,PA,USA,4.613
 november-19-1997-assembly-hall-university-of-illinois-champaign-il-usa,1997-11-19,"Assembly Hall, University of Illinois",Champaign,IL,USA,4.599
@@ -51,7 +51,7 @@ february-23-1997-fillmore-cortemaggiore-italy,1997-02-23,Fillmore,Cortemaggiore,
 july-26-1997-south-park-meadows-austin-tx-usa,1997-07-26,South Park Meadows,Austin,TX,USA,3.742
 june-24-1997-la-laiterie-strasbourg-france,1997-06-24,La Laiterie,Strasbourg,Grand Est,France,3.673
 july-03-1997-serenadenhof-nremberg-germany,1997-07-03,Serenadenhof,Nüremberg,Bavaria,Germany,3.634
-august-03-1997-gorge-amphitheatre-george-wa-usa,1997-08-03,Gorge Amphitheatre,George,WA,USA,3.631
+august-03-1997-gorge-amphitheatre-george-wa-usa,1997-08-03,Gorge Amphitheatre,George,WA,USA,3.63
 december-28-1997-usair-arena-landover-md-usa,1997-12-28,USAir Arena,Landover,MD,USA,3.621
 june-13-1997-the-sfx-centre-dublin-ireland,1997-06-13,The S.F.X. Centre,Dublin,County Dublin,Ireland,3.581
 july-05-1997-piazza-risorgimento-como-italy,1997-07-05,Piazza Risorgimento,Como,Lombardy,Italy,3.572
@@ -67,7 +67,7 @@ march-18-1997-the-flynn-theatre-burlington-vt-usa,1997-03-18,The Flynn Theatre,B
 february-20-1997-teatro-smeraldo-milan-italy,1997-02-20,Teatro Smeraldo,Milan,Lombardy,Italy,3.417
 june-22-1997-loreley-st-goarshausen-koblenz-germany,1997-06-22,Loreley,St. Goarshausen,Rhineland-Palatinate,Germany,3.37
 july-06-1997-spiaggia-di-rivoltella-desenzano-italy,1997-07-06,Spiaggia di Rivoltella,Desenzano,Lombardy,Italy,3.367
-february-22-1997-teatro-olimpico-rome-italy,1997-02-22,Teatro Olimpico,Rome,Lazio,Italy,3.362
+february-22-1997-teatro-olimpico-rome-italy,1997-02-22,Teatro Olimpico,Rome,Lazio,Italy,3.363
 february-13-1997-shepherds-bush-empire-london-england,1997-02-13,Shepherd's Bush Empire,London,England,United Kingdom,3.358
 june-21-1997-hurricane-festival-scheeel-germany,1997-06-21,Hurricane Festival,Scheeßel,Lower Saxony,Germany,3.341
 february-14-1997-le-botanique-brussels-belgium,1997-02-14,Le Botanique,Brussels,Brussels-Capital,Belgium,3.29

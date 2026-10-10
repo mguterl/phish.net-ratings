@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-june-18-1994-uic-pavilion-university-of-illinois-chicago-il-usa,1994-06-18,"UIC Pavilion, University of Illinois",Chicago,IL,USA,4.711
+june-18-1994-uic-pavilion-university-of-illinois-chicago-il-usa,1994-06-18,"UIC Pavilion, University of Illinois",Chicago,IL,USA,4.71
 october-31-1994-glens-falls-civic-center-glens-falls-ny-usa,1994-10-31,Glens Falls Civic Center,Glens Falls,NY,USA,4.706
 june-22-1994-veterans-memorial-auditorium-columbus-oh-usa,1994-06-22,Veterans Memorial Auditorium,Columbus,OH,USA,4.655
 may-07-1994-the-bomb-factory-dallas-tx-usa,1994-05-07,The Bomb Factory,Dallas,TX,USA,4.631
@@ -38,7 +38,7 @@ june-21-1994-cincinnati-music-hall-cincinnati-oh-usa,1994-06-21,Cincinnati Music
 july-02-1994-garden-state-arts-center-holmdel-nj-usa,1994-07-02,Garden State Arts Center,Holmdel,NJ,USA,4.078
 may-29-1994-laguna-seca-raceway-monterey-ca-usa,1994-05-29,Laguna Seca Raceway,Monterey,CA,USA,4.069
 april-22-1994-township-auditorium-columbia-sc-usa,1994-04-22,Township Auditorium,Columbia,SC,USA,4.059
-october-25-1994-atlanta-civic-center-atlanta-ga-usa,1994-10-25,Atlanta Civic Center,Atlanta,GA,USA,4.034
+october-25-1994-atlanta-civic-center-atlanta-ga-usa,1994-10-25,Atlanta Civic Center,Atlanta,GA,USA,4.035
 may-16-1994-the-wiltern-theatre-los-angeles-ca-usa,1994-05-16,The Wiltern Theatre,Los Angeles,CA,USA,4.028
 april-21-1994-lawrence-joel-veterans-memorial-coliseum-winston-salem-nc-usa,1994-04-21,Lawrence Joel Veterans Memorial Coliseum,Winston-Salem,NC,USA,4.025
 may-13-1994-hayden-square-tempe-az-usa,1994-05-13,Hayden Square,Tempe,AZ,USA,4.019
@@ -47,7 +47,7 @@ june-24-1994-murat-theatre-indianapolis-in-usa,1994-06-24,Murat Theatre,Indianap
 april-09-1994-broome-county-arena-binghamton-ny-usa,1994-04-09,Broome County Veterans Memorial Arena,Binghamton,NY,USA,4.009
 november-18-1994-msu-auditorium-michigan-state-university-east-lansing-mi-usa,1994-11-18,"MSU Auditorium, Michigan State University",East Lansing,MI,USA,4.008
 november-20-1994-dane-county-coliseum-madison-wi-usa,1994-11-20,Dane County Coliseum,Madison,WI,USA,4.008
-may-22-1994-vogue-theatre-vancouver-british-columbia-canada,1994-05-22,Vogue Theatre,Vancouver,British Columbia,Canada,3.999
+may-22-1994-vogue-theatre-vancouver-british-columbia-canada,1994-05-22,Vogue Theatre,Vancouver,British Columbia,Canada,4.0
 july-03-1994-the-ballpark-old-orchard-beach-me-usa,1994-07-03,The Ballpark,Old Orchard Beach,ME,USA,3.981
 july-10-1994-saratoga-performing-arts-center-saratoga-springs-ny-usa,1994-07-10,Saratoga Performing Arts Center,Saratoga Springs,NY,USA,3.979
 april-10-1994-alumni-arena-suny-buffalo-buffalo-ny-usa,1994-04-10,"Alumni Arena, SUNY Buffalo",Buffalo,NY,USA,3.965
@@ -62,7 +62,7 @@ april-04-1994-the-flynn-theatre-burlington-vt-usa,1994-04-04,The Flynn Theatre,B
 november-19-1994-parking-lot-indiana-university-auditorium-bloomington-in-usa,1994-11-19,"Parking Lot, Indiana University Auditorium",Bloomington,IN,USA,3.928
 may-03-1994-starwood-amphitheatre-antioch-tn-usa,1994-05-03,Starwood Amphitheatre,Antioch,TN,USA,3.924
 april-15-1994-beacon-theatre-new-york-ny-usa,1994-04-15,Beacon Theatre,New York,NY,USA,3.917
-april-23-1994-the-fox-theatre-atlanta-ga-usa,1994-04-23,The Fox Theatre,Atlanta,GA,USA,3.915
+april-23-1994-the-fox-theatre-atlanta-ga-usa,1994-04-23,The Fox Theatre,Atlanta,GA,USA,3.916
 june-14-1994-civic-center-des-moines-ia-usa,1994-06-14,Civic Center,Des Moines,IA,USA,3.912
 may-10-1994-paolo-soleri-amphitheatre-santa-fe-nm-usa,1994-05-10,Paolo Soleri Amphitheatre,Santa Fe,NM,USA,3.911
 july-01-1994-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,1994-07-01,The Mann Center for the Performing Arts,Philadelphia,PA,USA,3.908
@@ -106,7 +106,7 @@ may-25-1994-warfield-theatre-san-francisco-ca-usa,1994-05-25,Warfield Theatre,Sa
 april-06-1994-concert-hall-toronto-ontario-canada,1994-04-06,Concert Hall,Toronto,Ontario,Canada,3.603
 december-03-1994-event-center-san-jose-ca-usa,1994-12-03,Event Center,San Jose,CA,USA,3.599
 december-04-1994-acker-gym-chico-state-university-chico-ca-usa,1994-12-04,"Acker Gym, Chico State University",Chico,CA,USA,3.596
-april-25-1994-civic-auditorium-knoxville-tn-usa,1994-04-25,Civic Auditorium,Knoxville,TN,USA,3.594
+april-25-1994-civic-auditorium-knoxville-tn-usa,1994-04-25,Civic Auditorium,Knoxville,TN,USA,3.595
 april-16-1994-mullins-center-university-of-massachusetts-amherst-ma-usa,1994-04-16,"Mullins Center, University of Massachusetts",Amherst,MA,USA,3.593
 october-10-1994-palace-theatre-louisville-ky-usa,1994-10-10,Palace Theatre,Louisville,KY,USA,3.591
 april-18-1994-bob-carpenter-center-university-of-delaware-newark-de-usa,1994-04-18,"Bob Carpenter Center, University of Delaware",Newark,DE,USA,3.586
