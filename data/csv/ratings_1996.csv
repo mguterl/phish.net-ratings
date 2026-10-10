@@ -1,12 +1,12 @@
 show_id,date,venue,city,state,country,rating
 october-31-1996-the-omni-atlanta-ga-usa,1996-10-31,The Omni,Atlanta,GA,USA,4.702
 august-17-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-17,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.664
-december-06-1996-the-aladdin-theatre-las-vegas-nv-usa,1996-12-06,The Aladdin Theatre,Las Vegas,NV,USA,4.642
+december-06-1996-the-aladdin-theatre-las-vegas-nv-usa,1996-12-06,The Aladdin Theatre,Las Vegas,NV,USA,4.644
 august-16-1996-plattsburgh-air-force-base-plattsburgh-ny-usa,1996-08-16,Plattsburgh Air Force Base,Plattsburgh,NY,USA,4.634
 august-13-1996-deer-creek-music-center-noblesville-in-usa,1996-08-13,Deer Creek Music Center,Noblesville,IN,USA,4.584
-november-02-1996-coral-sky-amphitheater-west-palm-beach-fl-usa,1996-11-02,Coral Sky Amphitheater,West Palm Beach,FL,USA,4.526
+november-02-1996-coral-sky-amphitheater-west-palm-beach-fl-usa,1996-11-02,Coral Sky Amphitheater,West Palm Beach,FL,USA,4.528
 december-29-1996-corestates-spectrum-philadelphia-pa-usa,1996-12-29,CoreStates Spectrum,Philadelphia,PA,USA,4.416
-november-07-1996-rupp-arena-lexington-ky-usa,1996-11-07,Rupp Arena,Lexington,KY,USA,4.349
+november-07-1996-rupp-arena-lexington-ky-usa,1996-11-07,Rupp Arena,Lexington,KY,USA,4.353
 november-27-1996-key-arena-seattle-wa-usa,1996-11-27,Key Arena,Seattle,WA,USA,4.262
 november-16-1996-civic-auditorium-omaha-ne-usa,1996-11-16,Civic Auditorium,Omaha,NE,USA,4.22
 november-19-1996-municipal-auditorium-kansas-city-mo-usa,1996-11-19,Municipal Auditorium,Kansas City,MO,USA,4.107
@@ -39,7 +39,7 @@ october-19-1996-marine-midland-arena-buffalo-ny-usa,1996-10-19,Marine Midland Ar
 november-03-1996-oconnell-center-university-of-florida-gainesville-fl-usa,1996-11-03,"O'Connell Center, University of Florida",Gainesville,FL,USA,3.516
 november-29-1996-the-cow-palace-daly-city-ca-usa,1996-11-29,The Cow Palace,Daly City,CA,USA,3.477
 july-03-1996-stadio-briamasco-trento-italy,1996-07-03,Stadio Briamasco,Trento,Trentino-Alto Adige,Italy,3.477
-october-26-1996-charlotte-coliseum-charlotte-nc-usa,1996-10-26,Charlotte Coliseum,Charlotte,NC,USA,3.474
+october-26-1996-charlotte-coliseum-charlotte-nc-usa,1996-10-26,Charlotte Coliseum,Charlotte,NC,USA,3.475
 december-30-1996-fleetcenter-boston-ma-usa,1996-12-30,FleetCenter,Boston,MA,USA,3.472
 november-11-1996-van-andel-arena-grand-rapids-mi-usa,1996-11-11,Van Andel Arena,Grand Rapids,MI,USA,3.47
 august-12-1996-deer-creek-music-center-noblesville-in-usa,1996-08-12,Deer Creek Music Center,Noblesville,IN,USA,3.462
@@ -49,12 +49,12 @@ october-25-1996-hampton-coliseum-hampton-va-usa,1996-10-25,Hampton Coliseum,Hamp
 july-18-1996-theatre-de-verdure-nice-france,1996-07-18,Theatre de Verdure,Nice,PACA,France,3.452
 august-02-1996-wolf-mountain-amphitheatre-park-city-ut-usa,1996-08-02,Wolf Mountain Amphitheatre,Park City,UT,USA,3.449
 july-11-1996-shepherds-bush-empire-london-england,1996-07-11,Shepherd's Bush Empire,London,England,United Kingdom,3.445
-july-10-1996-le-zenith-paris-france,1996-07-10,Le Zenith,Paris,Île-de-France,France,3.436
+july-10-1996-le-zenith-paris-france,1996-07-10,Le Zenith,Paris,Île-de-France,France,3.437
 july-19-1996-les-arnes-darles-arles-france,1996-07-19,Les Arènes d'Arles,Arles,PACA,France,3.436
 june-06-1996-joyous-lake-woodstock-ny-usa,1996-06-06,Joyous Lake,Woodstock,NY,USA,3.429
 july-24-1996-the-music-hall-hanover-germany,1996-07-24,The Music Hall,Hanover,Lower Saxony,Germany,3.425
 april-26-1996-new-orleans-fairgrounds-new-orleans-la-usa,1996-04-26,New Orleans Fairgrounds,New Orleans,LA,USA,3.422
-july-06-1996-piazza-del-duomo-pistoia-italy,1996-07-06,Piazza del Duomo,Pistoia,Tuscany,Italy,3.418
+july-06-1996-piazza-del-duomo-pistoia-italy,1996-07-06,Piazza del Duomo,Pistoia,Tuscany,Italy,3.419
 july-07-1996-parco-aquatica-milan-italy,1996-07-07,Parco Aquatica,Milan,Lombardy,Italy,3.411
 july-22-1996-tanzbrunnen-cologne-germany,1996-07-22,Tanzbrunnen,Cologne,NRW,Germany,3.41
 july-17-1996-theatre-antique-vienne-france,1996-07-17,Theatre Antique,Vienne,Auvergne-Rhône,France,3.394
