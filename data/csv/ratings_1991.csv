@@ -1,7 +1,7 @@
 show_id,date,venue,city,state,country,rating
 july-12-1991-the-colonial-theatre-keene-nh-usa,1991-07-12,The Colonial Theatre,Keene,NH,USA,4.273
 august-03-1991-larrabee-farm-aka-amys-farm-auburn-me-usa,1991-08-03,"Larrabee Farm, a.k.a. Amy’s Farm",Auburn,ME,USA,4.257
-december-31-1991-worcester-memorial-auditorium-worcester-ma-usa,1991-12-31,Worcester Memorial Auditorium,Worcester,MA,USA,4.212
+december-31-1991-worcester-memorial-auditorium-worcester-ma-usa,1991-12-31,Worcester Memorial Auditorium,Worcester,MA,USA,4.211
 july-21-1991-arrowhead-ranch-parksville-ny-usa,1991-07-21,Arrowhead Ranch,Parksville,NY,USA,4.171
 july-14-1991-townshend-family-park-townshend-vt-usa,1991-07-14,Townshend Family Park,Townshend,VT,USA,4.17
 july-19-1991-somerville-theatre-somerville-ma-usa,1991-07-19,Somerville Theatre,Somerville,MA,USA,4.14
@@ -29,7 +29,7 @@ july-23-1991-the-bayou-washington-dc-usa,1991-07-23,The Bayou,Washington,DC,USA,
 march-16-1991-ten-mile-room-breckenridge-co-usa,1991-03-16,Ten Mile Room,Breckenridge,CO,USA,3.865
 may-12-1991-the-front-burlington-vt-usa,1991-05-12,The Front,Burlington,VT,USA,3.86
 march-08-1991-college-station-theater-tuscaloosa-al-usa,1991-03-08,College Station Theater,Tuscaloosa,AL,USA,3.851
-march-07-1991-the-gin-oxford-ms-usa,1991-03-07,The Gin,Oxford,MS,USA,3.848
+march-07-1991-the-gin-oxford-ms-usa,1991-03-07,The Gin,Oxford,MS,USA,3.849
 november-09-1991-variety-playhouse-atlanta-ga-usa,1991-11-09,Variety Playhouse,Atlanta,GA,USA,3.848
 july-13-1991-berkshire-performing-arts-center-lenox-ma-usa,1991-07-13,Berkshire Performing Arts Center,Lenox,MA,USA,3.848
 february-23-1991-13x13-club-charlotte-nc-usa,1991-02-23,The Attic,Greenville,NC,USA,3.845
@@ -52,10 +52,10 @@ november-12-1991-the-georgia-theatre-athens-ga-usa,1991-11-12,The Georgia Theatr
 april-27-1991-the-capitol-theatre-port-chester-ny-usa,1991-04-27,The Capitol Theatre,Port Chester,NY,USA,3.785
 october-10-1991-emu-ballroom-university-of-oregon-eugene-or-usa,1991-10-10,"EMU Ballroom, University of Oregon",Eugene,OR,USA,3.784
 october-18-1991-great-american-music-hall-san-francisco-ca-usa,1991-10-18,Great American Music Hall,San Francisco,CA,USA,3.769
-november-16-1991-the-bayou-washington-dc-usa,1991-11-16,The Bayou,Washington,DC,USA,3.768
+november-16-1991-the-bayou-washington-dc-usa,1991-11-16,The Bayou,Washington,DC,USA,3.769
 february-14-1991-state-theatre-ithaca-ny-usa,1991-02-14,State Theatre Of Ithaca,Ithaca,NY,USA,3.766
 march-25-1991-fine-arts-auditorium-fort-lewis-college-durango-co-usa,1991-03-25,"Fine Arts Auditorium, Fort Lewis College",Durango,CO,USA,3.761
-october-27-1991-elk-ballroom-telluride-co-usa,1991-10-27,Elk Ballroom,Telluride,CO,USA,3.76
+october-27-1991-elk-ballroom-telluride-co-usa,1991-10-27,Elk Ballroom,Telluride,CO,USA,3.761
 november-19-1991-the-sting-new-britain-ct-usa,1991-11-19,The Sting,New Britain,CT,USA,3.756
 october-04-1991-barrymore-theatre-madison-wi-usa,1991-10-04,Barrymore Theatre,Madison,WI,USA,3.75
 may-19-1991-salisbury-school-salisbury-ct-usa,1991-05-19,Salisbury School,Salisbury,CT,USA,3.749
@@ -66,7 +66,7 @@ september-27-1991-the-warehouse-rochester-ny-usa,1991-09-27,The Warehouse,Roches
 october-26-1991-club-west-santa-fe-nm-usa,1991-10-26,Club West,Santa Fe,NM,USA,3.734
 march-09-1991-tipitinas-new-orleans-la-usa,1991-03-09,Tipitina's,New Orleans,LA,USA,3.732
 may-16-1991-the-sting-new-britain-ct-usa,1991-05-16,The Sting,New Britain,CT,USA,3.731
-february-03-1991-the-front-burlington-vt-usa,1991-02-03,The Front,Burlington,VT,USA,3.73
+february-03-1991-the-front-burlington-vt-usa,1991-02-03,The Front,Burlington,VT,USA,3.731
 may-10-1991-page-commons-room-student-center-colby-college-waterville-me-usa,1991-05-10,"Page Commons Room, Student Center, Colby College",Waterville,ME,USA,3.724
 march-23-1991-the-inferno-steamboat-springs-co-usa,1991-03-23,The Inferno,Steamboat Springs,CO,USA,3.724
 september-26-1991-state-theatre-ithaca-ny-usa,1991-09-26,State Theatre Of Ithaca,Ithaca,NY,USA,3.723
