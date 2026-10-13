@@ -27,13 +27,13 @@ december-29-1992-palace-theatre-new-haven-ct-usa,1992-12-29,Palace Theatre,New H
 july-15-1992-trax-charlottesville-va-usa,1992-07-15,Trax,Charlottesville,VA,USA,3.971
 december-05-1992-the-vic-theatre-chicago-il-usa,1992-12-05,The Vic Theatre,Chicago,IL,USA,3.966
 may-09-1992-the-syracuse-armory-syracuse-ny-usa,1992-05-09,The Syracuse Armory,Syracuse,NY,USA,3.95
-april-06-1992-paul-wright-gym-western-state-college-gunnison-co-usa,1992-04-06,"Paul Wright Gym, Western State College",Gunnison,CO,USA,3.94
+april-06-1992-paul-wright-gym-western-state-college-gunnison-co-usa,1992-04-06,"Paul Wright Gym, Western State College",Gunnison,CO,USA,3.939
 march-24-1992-flood-zone-richmond-va-usa,1992-03-24,Flood Zone,Richmond,VA,USA,3.937
 april-24-1992-roseland-theater-portland-or-usa,1992-04-24,Roseland Theater,Portland,OR,USA,3.932
 november-21-1992-pritchard-gym-sb-sports-complex-suny-stony-brook-stony-brook-ny-usa,1992-11-21,"Pritchard Gym, SB Sports Complex, SUNY Stony Brook",Stony Brook,NY,USA,3.929
-december-03-1992-bogarts-cincinnati-oh-usa,1992-12-03,Bogart's,Cincinnati,OH,USA,3.917
+december-03-1992-bogarts-cincinnati-oh-usa,1992-12-03,Bogart's,Cincinnati,OH,USA,3.916
 december-11-1992-michigan-theater-ann-arbor-mi-usa,1992-12-11,Michigan Theater,Ann Arbor,MI,USA,3.874
-may-02-1992-cabaret-metro-chicago-il-usa,1992-05-02,Cabaret Metro,Chicago,IL,USA,3.87
+may-02-1992-cabaret-metro-chicago-il-usa,1992-05-02,Cabaret Metro,Chicago,IL,USA,3.869
 march-26-1992-ziggys-winston-salem-nc-usa,1992-03-26,Ziggy's,Winston-Salem,NC,USA,3.864
 may-08-1992-the-riviera-theatre-north-tonawanda-ny-usa,1992-05-08,The Riviera Theatre,North Tonawanda,NY,USA,3.864
 august-30-1992-cal-expo-amphitheater-sacramento-ca-usa,1992-08-30,Cal Expo Amphitheater,Sacramento,CA,USA,3.857
@@ -58,10 +58,10 @@ april-15-1992-variety-arts-center-los-angeles-ca-usa,1992-04-15,Variety Arts Cen
 july-26-1992-big-birch-concert-pavilion-patterson-ny-usa,1992-07-26,Big Birch Concert Pavilion,Patterson,NY,USA,3.696
 march-14-1992-roseland-ballroom-new-york-ny-usa,1992-03-14,Roseland Ballroom,New York,NY,USA,3.696
 march-31-1992-the-blue-note-columbia-mo-usa,1992-03-31,The Blue Note,Columbia,MO,USA,3.694
+march-30-1992-mississippi-nights-st-louis-mo-usa,1992-03-30,Mississippi Nights,St. Louis,MO,USA,3.694
 april-08-1992-el-rey-theater-albuquerque-nm-usa,1992-04-08,El Rey Theater,Albuquerque,NM,USA,3.691
 march-25-1992-trax-charlottesville-va-usa,1992-03-25,Trax,Charlottesville,VA,USA,3.69
 december-13-1992-le-spectrum-montral-qubec-canada,1992-12-13,Le Spectrum,Montréal,Quebec,Canada,3.688
-march-30-1992-mississippi-nights-st-louis-mo-usa,1992-03-30,Mississippi Nights,St. Louis,MO,USA,3.686
 july-28-1992-finger-lakes-performing-arts-center-canandaigua-ny-usa,1992-07-28,Finger Lakes Performing Arts Center,Canandaigua,NY,USA,3.686
 december-01-1992-livingston-gymnasium-denison-university-granville-oh-usa,1992-12-01,"Livingston Gymnasium, Denison University",Granville,OH,USA,3.683
 march-27-1992-13x13-club-charlotte-nc-usa,1992-03-27,1313 Club,Charlotte,NC,USA,3.68
@@ -76,7 +76,7 @@ july-01-1992-ancienne-belgique-brussels-belgium,1992-07-01,Ancienne Belgique,Bru
 november-30-1992-metropol-pittsburgh-pa-usa,1992-11-30,Metropol,Pittsburgh,PA,USA,3.649
 april-04-1992-balch-fieldhouse-university-of-colorado-boulder-co-usa,1992-04-04,"Balch Fieldhouse, University of Colorado",Boulder,CO,USA,3.643
 may-07-1992-the-agora-theatre-cleveland-oh-usa,1992-05-07,The Agora Theatre,Cleveland,OH,USA,3.636
-june-30-1992-elysee-montmartre-paris-france,1992-06-30,Elysee Montmartre,Paris,Île-de-France,France,3.636
+june-30-1992-elysee-montmartre-paris-france,1992-06-30,Elysee Montmartre,Paris,Île-de-France,France,3.635
 may-05-1992-bogarts-cincinnati-oh-usa,1992-05-05,Bogart's,Cincinnati,OH,USA,3.634
 july-22-1992-holman-stadium-nashua-nh-usa,1992-07-22,Holman Stadium,Nashua,NH,USA,3.631
 may-01-1992-the-rave-milwaukee-wi-usa,1992-05-01,The Rave,Milwaukee,WI,USA,3.628
@@ -117,7 +117,7 @@ june-24-1992-resi-nremberg-germany,1992-06-24,Resi,Nüremberg,Bavaria,Germany,3.
 july-10-1992-empire-court-syracuse-ny-usa,1992-07-10,Empire Court,Syracuse,NY,USA,3.438
 july-11-1992-garden-state-arts-center-holmdel-nj-usa,1992-07-11,Garden State Arts Center,Holmdel,NJ,USA,3.431
 july-12-1992-jones-beach-amphitheater-wantagh-ny-usa,1992-07-12,Jones Beach Amphitheater,Wantagh,NY,USA,3.429
-august-15-1992-greek-theatre-los-angeles-ca-usa,1992-08-15,Greek Theatre,Los Angeles,CA,USA,3.426
+august-15-1992-greek-theatre-los-angeles-ca-usa,1992-08-15,Greek Theatre,Los Angeles,CA,USA,3.425
 march-22-1992-cultural-center-auditorium-charleston-wv-usa,1992-03-22,Cultural Center Auditorium,Charleston,WV,USA,3.4
 july-30-1992-meadow-brook-music-festival-rochester-hills-mi-usa,1992-07-30,Meadow Brook Music Festival,Rochester Hills,MI,USA,3.264
 july-14-1992-the-boathouse-norfolk-va-usa,1992-07-14,The Boathouse,Norfolk,VA,USA,3.176
