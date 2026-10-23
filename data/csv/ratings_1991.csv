@@ -1,7 +1,7 @@
 show_id,date,venue,city,state,country,rating
-july-12-1991-the-colonial-theatre-keene-nh-usa,1991-07-12,The Colonial Theatre,Keene,NH,USA,4.272
+july-12-1991-the-colonial-theatre-keene-nh-usa,1991-07-12,The Colonial Theatre,Keene,NH,USA,4.273
 august-03-1991-larrabee-farm-aka-amys-farm-auburn-me-usa,1991-08-03,"Larrabee Farm, a.k.a. Amy’s Farm",Auburn,ME,USA,4.256
-december-31-1991-worcester-memorial-auditorium-worcester-ma-usa,1991-12-31,Worcester Memorial Auditorium,Worcester,MA,USA,4.209
+december-31-1991-worcester-memorial-auditorium-worcester-ma-usa,1991-12-31,Worcester Memorial Auditorium,Worcester,MA,USA,4.21
 july-21-1991-arrowhead-ranch-parksville-ny-usa,1991-07-21,Arrowhead Ranch,Parksville,NY,USA,4.171
 july-14-1991-townshend-family-park-townshend-vt-usa,1991-07-14,Townshend Family Park,Townshend,VT,USA,4.169
 july-19-1991-somerville-theatre-somerville-ma-usa,1991-07-19,Somerville Theatre,Somerville,MA,USA,4.14
@@ -17,7 +17,7 @@ july-26-1991-the-georgia-theatre-athens-ga-usa,1991-07-26,The Georgia Theatre,At
 may-17-1991-campus-club-providence-ri-usa,1991-05-17,Campus Club,Providence,RI,USA,4.045
 october-24-1991-crystal-ballroom-hotel-st-michael-prescott-az-usa,1991-10-24,"Crystal Ballroom, Hotel St. Michael",Prescott,AZ,USA,4.035
 july-11-1991-battery-park-burlington-vt-usa,1991-07-11,Battery Park,Burlington,VT,USA,4.032
-october-31-1991-armstrong-hall-colorado-college-colorado-springs-co-usa,1991-10-31,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,3.991
+october-31-1991-armstrong-hall-colorado-college-colorado-springs-co-usa,1991-10-31,"Armstrong Hall, Colorado College",Colorado Springs,CO,USA,3.99
 july-24-1991-trax-charlottesville-va-usa,1991-07-24,Trax,Charlottesville,VA,USA,3.989
 october-28-1991-elk-ballroom-telluride-co-usa,1991-10-28,Elk Ballroom,Telluride,CO,USA,3.984
 november-14-1991-cats-cradle-chapel-hill-nc-usa,1991-11-14,Cat's Cradle,Chapel Hill,NC,USA,3.957
@@ -27,7 +27,7 @@ april-06-1991-campus-recreation-center-evergreen-college-olympia-wa-usa,1991-04-
 april-12-1991-barrymore-theatre-madison-wi-usa,1991-04-12,Barrymore Theatre,Madison,WI,USA,3.878
 july-23-1991-the-bayou-washington-dc-usa,1991-07-23,The Bayou,Washington,DC,USA,3.867
 march-16-1991-ten-mile-room-breckenridge-co-usa,1991-03-16,Ten Mile Room,Breckenridge,CO,USA,3.864
-may-12-1991-the-front-burlington-vt-usa,1991-05-12,The Front,Burlington,VT,USA,3.857
+may-12-1991-the-front-burlington-vt-usa,1991-05-12,The Front,Burlington,VT,USA,3.856
 march-08-1991-college-station-theater-tuscaloosa-al-usa,1991-03-08,College Station Theater,Tuscaloosa,AL,USA,3.85
 november-09-1991-variety-playhouse-atlanta-ga-usa,1991-11-09,Variety Playhouse,Atlanta,GA,USA,3.848
 march-07-1991-the-gin-oxford-ms-usa,1991-03-07,The Gin,Oxford,MS,USA,3.848
@@ -46,13 +46,13 @@ november-23-1991-alumni-hall-barre-vt-usa,1991-11-23,Alumni Hall,Barre,VT,USA,3.
 september-28-1991-the-rink-buffalo-ny-usa,1991-09-28,The Rink,Buffalo,NY,USA,3.793
 october-06-1991-cochran-lounge-student-union-macalester-college-st-paul-mn-usa,1991-10-06,"Cochran Lounge, Student Union, Macalester College",St. Paul,MN,USA,3.792
 february-26-1991-the-barrel-house-salem-va-usa,1991-02-26,The Barrel House,Salem,VA,USA,3.79
-december-07-1991-the-music-hall-portsmouth-nh-usa,1991-12-07,The Music Hall,Portsmouth,NH,USA,3.788
+december-07-1991-the-music-hall-portsmouth-nh-usa,1991-12-07,The Music Hall,Portsmouth,NH,USA,3.787
 november-12-1991-the-georgia-theatre-athens-ga-usa,1991-11-12,The Georgia Theatre,Athens,GA,USA,3.784
 november-01-1991-gothic-theatre-englewood-co-usa,1991-11-01,Gothic Theatre,Englewood,CO,USA,3.784
 april-27-1991-the-capitol-theatre-port-chester-ny-usa,1991-04-27,The Capitol Theatre,Port Chester,NY,USA,3.784
 october-10-1991-emu-ballroom-university-of-oregon-eugene-or-usa,1991-10-10,"EMU Ballroom, University of Oregon",Eugene,OR,USA,3.784
 october-18-1991-great-american-music-hall-san-francisco-ca-usa,1991-10-18,Great American Music Hall,San Francisco,CA,USA,3.769
-november-16-1991-the-bayou-washington-dc-usa,1991-11-16,The Bayou,Washington,DC,USA,3.768
+november-16-1991-the-bayou-washington-dc-usa,1991-11-16,The Bayou,Washington,DC,USA,3.767
 february-14-1991-state-theatre-ithaca-ny-usa,1991-02-14,State Theatre Of Ithaca,Ithaca,NY,USA,3.765
 march-25-1991-fine-arts-auditorium-fort-lewis-college-durango-co-usa,1991-03-25,"Fine Arts Auditorium, Fort Lewis College",Durango,CO,USA,3.76
 october-27-1991-elk-ballroom-telluride-co-usa,1991-10-27,Elk Ballroom,Telluride,CO,USA,3.76
@@ -65,8 +65,8 @@ october-15-1991-international-beer-garden-arcata-ca-usa,1991-10-15,International
 september-27-1991-the-warehouse-rochester-ny-usa,1991-09-27,The Warehouse,Rochester,NY,USA,3.74
 october-26-1991-club-west-santa-fe-nm-usa,1991-10-26,Club West,Santa Fe,NM,USA,3.733
 march-09-1991-tipitinas-new-orleans-la-usa,1991-03-09,Tipitina's,New Orleans,LA,USA,3.731
-february-03-1991-the-front-burlington-vt-usa,1991-02-03,The Front,Burlington,VT,USA,3.73
-march-23-1991-the-inferno-steamboat-springs-co-usa,1991-03-23,The Inferno,Steamboat Springs,CO,USA,3.724
+february-03-1991-the-front-burlington-vt-usa,1991-02-03,The Front,Burlington,VT,USA,3.729
+march-23-1991-the-inferno-steamboat-springs-co-usa,1991-03-23,The Inferno,Steamboat Springs,CO,USA,3.723
 september-26-1991-state-theatre-ithaca-ny-usa,1991-09-26,State Theatre Of Ithaca,Ithaca,NY,USA,3.723
 may-10-1991-page-commons-room-student-center-colby-college-waterville-me-usa,1991-05-10,"Page Commons Room, Student Center, Colby College",Waterville,ME,USA,3.718
 april-26-1991-hartman-union-activities-center-plymouth-state-university-plymouth-nh-usa,1991-04-26,"Hartman Union Activities Center, Plymouth State University",Plymouth,NH,USA,3.712
@@ -90,7 +90,7 @@ february-28-1991-sarratt-student-center-vanderbilt-university-nashville-tn-usa,1
 april-04-1991-wow-hall-eugene-or-usa,1991-04-04,WOW Hall,Eugene,OR,USA,3.663
 october-23-1991-chuys-tempe-az-usa,1991-10-23,Chuy's,Tempe,AZ,USA,3.662
 october-12-1991-roseland-theater-portland-or-usa,1991-10-12,Roseland Theater,Portland,OR,USA,3.658
-october-19-1991-the-catalyst-santa-cruz-ca-usa,1991-10-19,The Catalyst,Santa Cruz,CA,USA,3.656
+october-19-1991-the-catalyst-santa-cruz-ca-usa,1991-10-19,The Catalyst,Santa Cruz,CA,USA,3.655
 march-22-1991-the-inferno-steamboat-springs-co-usa,1991-03-22,The Inferno,Steamboat Springs,CO,USA,3.643
 february-15-1991-the-colonial-theatre-keene-nh-usa,1991-02-15,The Colonial Theatre,Keene,NH,USA,3.642
 july-18-1991-hampton-casino-ballroom-hampton-beach-nh-usa,1991-07-18,Hampton Casino Ballroom,Hampton Beach,NH,USA,3.641
