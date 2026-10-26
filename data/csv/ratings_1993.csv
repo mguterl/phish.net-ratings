@@ -1,7 +1,7 @@
 show_id,date,venue,city,state,country,rating
 december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.745
 may-08-1993-field-house-university-of-new-hampshire-durham-nh-usa,1993-05-08,"Field House, University of New Hampshire",Durham,NH,USA,4.614
-august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.609
+august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.61
 august-14-1993-world-music-theatre-tinley-park-il-usa,1993-08-14,World Music Theatre,Tinley Park,IL,USA,4.599
 december-30-1993-cumberland-county-civic-center-portland-me-usa,1993-12-30,Cumberland County Civic Center,Portland,ME,USA,4.584
 february-20-1993-roxy-theatre-atlanta-ga-usa,1993-02-20,Roxy Theatre,Atlanta,GA,USA,4.555
@@ -21,7 +21,7 @@ april-14-1993-american-theater-st-louis-mo-usa,1993-04-14,American Theater,St. L
 august-21-1993-saltair-pavilion-salt-lake-city-ut-usa,1993-08-21,Saltair Pavilion,Salt Lake City,UT,USA,4.197
 july-24-1993-great-woods-center-for-the-performing-arts-mansfield-ma-usa,1993-07-24,Great Woods Center for the Performing Arts,Mansfield,MA,USA,4.152
 march-30-1993-hilton-ballroom-eugene-or-usa,1993-03-30,Hilton Ballroom,Eugene,OR,USA,4.073
-may-03-1993-state-theatre-new-brunswick-nj-usa,1993-05-03,State Theatre,New Brunswick,NJ,USA,4.071
+may-03-1993-state-theatre-new-brunswick-nj-usa,1993-05-03,State Theatre,New Brunswick,NJ,USA,4.072
 march-14-1993-paul-wright-gym-western-state-college-gunnison-co-usa,1993-03-14,"Paul Wright Gym, Western State College",Gunnison,CO,USA,4.07
 august-24-1993-commodore-ballroom-vancouver-british-columbia-canada,1993-08-24,Commodore Ballroom,Vancouver,British Columbia,Canada,4.032
 april-03-1993-86th-street-music-hall-vancouver-british-columbia-canada,1993-04-03,86th Street Music Hall,Vancouver,British Columbia,Canada,4.032
@@ -32,7 +32,7 @@ february-12-1993-mid-hudson-civic-center-poughkeepsie-ny-usa,1993-02-12,Mid-Huds
 august-06-1993-cincinnati-zoo-peacock-pavilion-cincinnati-oh-usa,1993-08-06,Cincinnati Zoo Peacock Pavilion,Cincinnati,OH,USA,4.006
 august-11-1993-eastbrook-theatre-grand-rapids-mi-usa,1993-08-11,Eastbrook Theatre,Grand Rapids,MI,USA,4.004
 march-27-1993-warfield-theatre-san-francisco-ca-usa,1993-03-27,Warfield Theatre,San Francisco,CA,USA,3.995
-march-09-1993-pikes-peak-center-colorado-springs-co-usa,1993-03-09,Pike's Peak Center,Colorado Springs,CO,USA,3.983
+march-09-1993-pikes-peak-center-colorado-springs-co-usa,1993-03-09,Pike's Peak Center,Colorado Springs,CO,USA,3.984
 july-16-1993-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,1993-07-16,The Mann Center for the Performing Arts,Philadelphia,PA,USA,3.979
 july-30-1993-the-veranda-at-starwood-antioch-tn-usa,1993-07-30,The Veranda at Starwood,Antioch,TN,USA,3.976
 april-29-1993-le-spectrum-montral-qubec-canada,1993-04-29,Le Spectrum,Montréal,Quebec,Canada,3.975
@@ -42,7 +42,7 @@ march-28-1993-east-gym-humboldt-state-university-arcata-ca-usa,1993-03-28,"East 
 august-25-1993-paramount-theatre-seattle-wa-usa,1993-08-25,Paramount Theatre,Seattle,WA,USA,3.952
 august-08-1993-nautica-stage-cleveland-oh-usa,1993-08-08,Nautica Stage,Cleveland,OH,USA,3.94
 march-19-1993-the-greek-theatre-redlands-ca-usa,1993-03-19,The Greek Theatre,Redlands,CA,USA,3.93
-july-25-1993-waterloo-village-stanhope-nj-usa,1993-07-25,Waterloo Village,Stanhope,NJ,USA,3.927
+july-25-1993-waterloo-village-stanhope-nj-usa,1993-07-25,Waterloo Village,Stanhope,NJ,USA,3.928
 july-15-1993-cayuga-county-fairgrounds-weedsport-ny-usa,1993-07-15,Cayuga County Fairgrounds,Weedsport,NY,USA,3.919
 august-09-1993-concert-hall-toronto-ontario-canada,1993-08-09,Concert Hall,Toronto,Ontario,Canada,3.91
 april-18-1993-michigan-theater-ann-arbor-mi-usa,1993-04-18,Michigan Theater,Ann Arbor,MI,USA,3.898
@@ -60,7 +60,7 @@ february-25-1993-the-cameo-theatre-miami-beach-fl-usa,1993-02-25,The Cameo Theat
 july-18-1993-ic-light-amphitheater-pittsburgh-pa-usa,1993-07-18,IC Light Amphitheater,Pittsburgh,PA,USA,3.768
 april-01-1993-gov-tom-mccall-waterfront-park-portland-or-usa,1993-04-01,Gov. Tom McCall Waterfront Park,Portland,OR,USA,3.765
 february-07-1993-lisner-auditorium-george-washington-university-washington-dc-usa,1993-02-07,"Lisner Auditorium, George Washington University",Washington,DC,USA,3.764
-february-18-1993-electric-ballroom-knoxville-tn-usa,1993-02-18,Electric Ballroom,Knoxville,TN,USA,3.76
+february-18-1993-electric-ballroom-knoxville-tn-usa,1993-02-18,Electric Ballroom,Knoxville,TN,USA,3.761
 april-10-1993-aragon-ballroom-chicago-il-usa,1993-04-10,Aragon Ballroom,Chicago,IL,USA,3.759
 march-12-1993-dobson-arena-vail-co-usa,1993-03-12,Dobson Arena,Vail,CO,USA,3.754
 april-09-1993-state-theatre-minneapolis-mn-usa,1993-04-09,State Theatre,Minneapolis,MN,USA,3.726
