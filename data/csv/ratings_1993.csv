@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.745
+december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.744
 may-08-1993-field-house-university-of-new-hampshire-durham-nh-usa,1993-05-08,"Field House, University of New Hampshire",Durham,NH,USA,4.614
 august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.61
 august-14-1993-world-music-theatre-tinley-park-il-usa,1993-08-14,World Music Theatre,Tinley Park,IL,USA,4.599
@@ -92,8 +92,8 @@ february-27-1993-florida-theatre-gainesville-fl-usa,1993-02-27,Florida Theatre,G
 march-17-1993-the-palace-hollywood-ca-usa,1993-03-17,The Palace,Hollywood,CA,USA,3.564
 february-17-1993-benton-convention-center-winston-salem-nc-usa,1993-02-17,Benton Convention Center,Winston-Salem,NC,USA,3.563
 may-29-1993-laguna-seca-raceway-monterey-ca-usa,1993-05-29,Laguna Seca Raceway,Monterey,CA,USA,3.56
-march-06-1993-liberty-lunch-austin-tx-usa,1993-03-06,Liberty Lunch,Austin,TX,USA,3.56
 april-02-1993-mt-baker-theatre-bellingham-wa-usa,1993-04-02,Mt. Baker Theatre,Bellingham,WA,USA,3.56
+march-06-1993-liberty-lunch-austin-tx-usa,1993-03-06,Liberty Lunch,Austin,TX,USA,3.56
 july-28-1993-grady-cole-center-charlotte-nc-usa,1993-07-28,Grady Cole Center,Charlotte,NC,USA,3.546
 april-30-1993-sports-center-university-of-hartford-west-hartford-ct-usa,1993-04-30,"Sports Center, University of Hartford",West Hartford,CT,USA,3.512
 march-24-1993-luther-burbank-center-for-the-arts-santa-rosa-ca-usa,1993-03-24,Luther Burbank Center for the Arts,Santa Rosa,CA,USA,3.495
