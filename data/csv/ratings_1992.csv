@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-march-20-1992-broome-county-forum-binghamton-ny-usa,1992-03-20,Broome County Forum,Binghamton,NY,USA,4.487
+march-20-1992-broome-county-forum-binghamton-ny-usa,1992-03-20,Broome County Forum,Binghamton,NY,USA,4.486
 april-16-1992-anaconda-theatre-isla-vista-ca-usa,1992-04-16,Anaconda Theatre,Isla Vista,CA,USA,4.425
 march-13-1992-campus-club-providence-ri-usa,1992-03-13,Campus Club,Providence,RI,USA,4.346
 may-17-1992-achilles-rink-union-college-schenectady-ny-usa,1992-05-17,"Achilles Rink, Union College",Schenectady,NY,USA,4.28
@@ -7,7 +7,7 @@ april-18-1992-wilbur-field-stanford-university-palo-alto-ca-usa,1992-04-18,"Wilb
 december-12-1992-the-spectrum-toronto-ontario-canada,1992-12-12,The Spectrum,Toronto,Ontario,Canada,4.25
 april-21-1992-redwood-acres-fairgrounds-eureka-ca-usa,1992-04-21,Redwood Acres Fairgrounds,Eureka,CA,USA,4.25
 november-19-1992-ross-arena-st-michaels-college-colchester-vt-usa,1992-11-19,"Ross Arena, St. Michael's College",Colchester,VT,USA,4.232
-april-17-1992-warfield-theatre-san-francisco-ca-usa,1992-04-17,Warfield Theatre,San Francisco,CA,USA,4.223
+april-17-1992-warfield-theatre-san-francisco-ca-usa,1992-04-17,Warfield Theatre,San Francisco,CA,USA,4.224
 july-25-1992-stowe-performing-arts-center-stowe-vt-usa,1992-07-25,Stowe Performing Arts Center,Stowe,VT,USA,4.178
 december-30-1992-symphony-hall-springfield-ma-usa,1992-12-30,Symphony Hall,Springfield,MA,USA,4.14
 december-31-1992-matthews-arena-northeastern-university-boston-ma-usa,1992-12-31,"Matthews Arena, Northeastern University",Boston,MA,USA,4.138
@@ -55,7 +55,7 @@ april-22-1992-hilton-ballroom-eugene-or-usa,1992-04-22,Hilton Ballroom,Eugene,OR
 march-17-1992-lisner-auditorium-george-washington-university-washington-dc-usa,1992-03-17,"Lisner Auditorium, George Washington University",Washington,DC,USA,3.715
 april-07-1992-fine-arts-auditorium-fort-lewis-college-durango-co-usa,1992-04-07,"Fine Arts Auditorium, Fort Lewis College",Durango,CO,USA,3.703
 april-15-1992-variety-arts-center-los-angeles-ca-usa,1992-04-15,Variety Arts Center,Los Angeles,CA,USA,3.7
-march-14-1992-roseland-ballroom-new-york-ny-usa,1992-03-14,Roseland Ballroom,New York,NY,USA,3.695
+march-14-1992-roseland-ballroom-new-york-ny-usa,1992-03-14,Roseland Ballroom,New York,NY,USA,3.696
 july-26-1992-big-birch-concert-pavilion-patterson-ny-usa,1992-07-26,Big Birch Concert Pavilion,Patterson,NY,USA,3.695
 march-31-1992-the-blue-note-columbia-mo-usa,1992-03-31,The Blue Note,Columbia,MO,USA,3.694
 march-30-1992-mississippi-nights-st-louis-mo-usa,1992-03-30,Mississippi Nights,St. Louis,MO,USA,3.693
