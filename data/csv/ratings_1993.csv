@@ -1,6 +1,6 @@
 show_id,date,venue,city,state,country,rating
 december-31-1993-worcester-centrum-centre-worcester-ma-usa,1993-12-31,Worcester Centrum Centre,Worcester,MA,USA,4.746
-may-08-1993-field-house-university-of-new-hampshire-durham-nh-usa,1993-05-08,"Field House, University of New Hampshire",Durham,NH,USA,4.614
+may-08-1993-field-house-university-of-new-hampshire-durham-nh-usa,1993-05-08,"Field House, University of New Hampshire",Durham,NH,USA,4.616
 august-13-1993-murat-theatre-indianapolis-in-usa,1993-08-13,Murat Theatre,Indianapolis,IN,USA,4.609
 august-14-1993-world-music-theatre-tinley-park-il-usa,1993-08-14,World Music Theatre,Tinley Park,IL,USA,4.599
 december-30-1993-cumberland-county-civic-center-portland-me-usa,1993-12-30,Cumberland County Civic Center,Portland,ME,USA,4.583
@@ -39,7 +39,7 @@ april-29-1993-le-spectrum-montral-qubec-canada,1993-04-29,Le Spectrum,Montréal,
 april-25-1993-kuhl-gym-suny-geneseo-geneseo-ny-usa,1993-04-25,"Kuhl Gym, SUNY Geneseo",Geneseo,NY,USA,3.973
 february-03-1993-portland-expo-portland-me-usa,1993-02-03,Portland Expo,Portland,ME,USA,3.966
 march-28-1993-east-gym-humboldt-state-university-arcata-ca-usa,1993-03-28,"East Gym, Humboldt State University",Arcata,CA,USA,3.955
-august-25-1993-paramount-theatre-seattle-wa-usa,1993-08-25,Paramount Theatre,Seattle,WA,USA,3.952
+august-25-1993-paramount-theatre-seattle-wa-usa,1993-08-25,Paramount Theatre,Seattle,WA,USA,3.951
 august-08-1993-nautica-stage-cleveland-oh-usa,1993-08-08,Nautica Stage,Cleveland,OH,USA,3.939
 march-19-1993-the-greek-theatre-redlands-ca-usa,1993-03-19,The Greek Theatre,Redlands,CA,USA,3.93
 july-25-1993-waterloo-village-stanhope-nj-usa,1993-07-25,Waterloo Village,Stanhope,NJ,USA,3.927
@@ -63,7 +63,7 @@ february-07-1993-lisner-auditorium-george-washington-university-washington-dc-us
 february-18-1993-electric-ballroom-knoxville-tn-usa,1993-02-18,Electric Ballroom,Knoxville,TN,USA,3.76
 april-10-1993-aragon-ballroom-chicago-il-usa,1993-04-10,Aragon Ballroom,Chicago,IL,USA,3.759
 march-12-1993-dobson-arena-vail-co-usa,1993-03-12,Dobson Arena,Vail,CO,USA,3.753
-april-09-1993-state-theatre-minneapolis-mn-usa,1993-04-09,State Theatre,Minneapolis,MN,USA,3.726
+april-09-1993-state-theatre-minneapolis-mn-usa,1993-04-09,State Theatre,Minneapolis,MN,USA,3.725
 december-28-1993-bender-arena-american-university-washington-dc-usa,1993-12-28,"Bender Arena, American University",Washington,DC,USA,3.723
 march-26-1993-warfield-theatre-san-francisco-ca-usa,1993-03-26,Warfield Theatre,San Francisco,CA,USA,3.722
 april-12-1993-imu-ballroom-university-of-iowa-iowa-city-ia-usa,1993-04-12,"Iowa Memorial Union Main Lounge, University of Iowa",Iowa City,IA,USA,3.718
