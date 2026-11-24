@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-march-20-1992-broome-county-forum-binghamton-ny-usa,1992-03-20,Broome County Forum,Binghamton,NY,USA,4.486
+march-20-1992-broome-county-forum-binghamton-ny-usa,1992-03-20,Broome County Forum,Binghamton,NY,USA,4.487
 april-16-1992-anaconda-theatre-isla-vista-ca-usa,1992-04-16,Anaconda Theatre,Isla Vista,CA,USA,4.424
 march-13-1992-campus-club-providence-ri-usa,1992-03-13,Campus Club,Providence,RI,USA,4.346
 may-17-1992-achilles-rink-union-college-schenectady-ny-usa,1992-05-17,"Achilles Rink, Union College",Schenectady,NY,USA,4.28
@@ -28,7 +28,7 @@ july-15-1992-trax-charlottesville-va-usa,1992-07-15,Trax,Charlottesville,VA,USA,
 december-05-1992-the-vic-theatre-chicago-il-usa,1992-12-05,The Vic Theatre,Chicago,IL,USA,3.966
 may-09-1992-the-syracuse-armory-syracuse-ny-usa,1992-05-09,The Syracuse Armory,Syracuse,NY,USA,3.95
 april-06-1992-paul-wright-gym-western-state-college-gunnison-co-usa,1992-04-06,"Paul Wright Gym, Western State College",Gunnison,CO,USA,3.939
-march-24-1992-flood-zone-richmond-va-usa,1992-03-24,Flood Zone,Richmond,VA,USA,3.937
+march-24-1992-flood-zone-richmond-va-usa,1992-03-24,Flood Zone,Richmond,VA,USA,3.936
 april-24-1992-roseland-theater-portland-or-usa,1992-04-24,Roseland Theater,Portland,OR,USA,3.931
 november-21-1992-pritchard-gym-sb-sports-complex-suny-stony-brook-stony-brook-ny-usa,1992-11-21,"Pritchard Gym, SB Sports Complex, SUNY Stony Brook",Stony Brook,NY,USA,3.928
 december-03-1992-bogarts-cincinnati-oh-usa,1992-12-03,Bogart's,Cincinnati,OH,USA,3.916
@@ -51,8 +51,8 @@ may-18-1992-the-flynn-theatre-burlington-vt-usa,1992-05-18,The Flynn Theatre,Bur
 april-03-1992-sawatch-hall-park-hyatt-beaver-creek-avon-co-usa,1992-04-03,"Sawatch Hall, Park Hyatt Beaver Creek",Avon,CO,USA,3.742
 april-13-1992-after-the-gold-rush-tempe-az-usa,1992-04-13,After the Gold Rush,Tempe,AZ,USA,3.74
 march-28-1992-variety-playhouse-atlanta-ga-usa,1992-03-28,Variety Playhouse,Atlanta,GA,USA,3.728
-march-17-1992-lisner-auditorium-george-washington-university-washington-dc-usa,1992-03-17,"Lisner Auditorium, George Washington University",Washington,DC,USA,3.715
 april-22-1992-hilton-ballroom-eugene-or-usa,1992-04-22,Hilton Ballroom,Eugene,OR,USA,3.715
+march-17-1992-lisner-auditorium-george-washington-university-washington-dc-usa,1992-03-17,"Lisner Auditorium, George Washington University",Washington,DC,USA,3.715
 april-07-1992-fine-arts-auditorium-fort-lewis-college-durango-co-usa,1992-04-07,"Fine Arts Auditorium, Fort Lewis College",Durango,CO,USA,3.702
 april-15-1992-variety-arts-center-los-angeles-ca-usa,1992-04-15,Variety Arts Center,Los Angeles,CA,USA,3.7
 july-26-1992-big-birch-concert-pavilion-patterson-ny-usa,1992-07-26,Big Birch Concert Pavilion,Patterson,NY,USA,3.695
@@ -90,17 +90,17 @@ may-16-1992-the-orpheum-theatre-boston-ma-usa,1992-05-16,The Orpheum Theatre,Bos
 december-08-1992-barrymore-theatre-madison-wi-usa,1992-12-08,Barrymore Theatre,Madison,WI,USA,3.595
 august-28-1992-concord-pavilion-concord-ca-usa,1992-08-28,Concord Pavilion,Concord,CA,USA,3.592
 august-19-1992-pima-county-fairgrounds-tucson-az-usa,1992-08-19,Pima County Fairgrounds,Tucson,AZ,USA,3.589
-july-09-1992-cumberland-county-civic-center-portland-me-usa,1992-07-09,Cumberland County Civic Center,Portland,ME,USA,3.586
+july-09-1992-cumberland-county-civic-center-portland-me-usa,1992-07-09,Cumberland County Civic Center,Portland,ME,USA,3.585
 june-23-1992-philipshalle-dsseldorf-germany,1992-06-23,Philipshalle,Düsseldorf,NRW,Germany,3.584
 june-19-1992-stadtpark-hamburg-germany,1992-06-19,Stadtpark,Hamburg,Hamburg,Germany,3.583
 april-12-1992-arizona-ballroom-university-of-arizona-student-union-tucson-az-usa,1992-04-12,"Arizona Ballroom, University of Arizona Student Union",Tucson,AZ,USA,3.579
-may-15-1992-lonestar-roadhouse-new-york-ny-usa,1992-05-15,Lonestar Roadhouse,New York,NY,USA,3.579
+may-15-1992-lonestar-roadhouse-new-york-ny-usa,1992-05-15,Lonestar Roadhouse,New York,NY,USA,3.578
 october-30-1992-boston-garden-boston-ma-usa,1992-10-30,Boston Garden,Boston,MA,USA,3.574
 may-03-1992-michigan-state-university-union-ballroom-east-lansing-mi-usa,1992-05-03,Michigan State University Union Ballroom,East Lansing,MI,USA,3.574
 august-13-1992-greek-theatre-los-angeles-ca-usa,1992-08-13,Greek Theatre,Los Angeles,CA,USA,3.566
 august-27-1992-santa-barbara-bowl-santa-barbara-ca-usa,1992-08-27,Santa Barbara Bowl,Santa Barbara,CA,USA,3.565
 april-29-1992-first-avenue-minneapolis-mn-usa,1992-04-29,First Avenue,Minneapolis,MN,USA,3.55
-april-23-1992-oz-nightclub-seattle-wa-usa,1992-04-23,Oz Nightclub,Seattle,WA,USA,3.544
+april-23-1992-oz-nightclub-seattle-wa-usa,1992-04-23,Oz Nightclub,Seattle,WA,USA,3.543
 july-21-1992-great-woods-center-for-the-performing-arts-mansfield-ma-usa,1992-07-21,Great Woods Center for the Performing Arts,Mansfield,MA,USA,3.537
 july-17-1992-merriweather-post-pavilion-columbia-md-usa,1992-07-17,Merriweather Post Pavilion,Columbia,MD,USA,3.526
 july-18-1992-the-mann-center-for-the-performing-arts-philadelphia-pa-usa,1992-07-18,The Mann Center for the Performing Arts,Philadelphia,PA,USA,3.525
