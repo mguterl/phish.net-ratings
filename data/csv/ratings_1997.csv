@@ -1,5 +1,5 @@
 show_id,date,venue,city,state,country,rating
-november-22-1997-hampton-coliseum-hampton-va-usa,1997-11-22,Hampton Coliseum,Hampton,VA,USA,4.803
+november-22-1997-hampton-coliseum-hampton-va-usa,1997-11-22,Hampton Coliseum,Hampton,VA,USA,4.804
 november-17-1997-mcnichols-arena-denver-co-usa,1997-11-17,McNichols Arena,Denver,CO,USA,4.775
 august-17-1997-loring-commerce-centre-limestone-me-usa,1997-08-17,Loring Commerce Centre,Limestone,ME,USA,4.769
 december-30-1997-madison-square-garden-new-york-ny-usa,1997-12-30,Madison Square Garden,New York,NY,USA,4.758
@@ -34,20 +34,20 @@ november-30-1997-worcester-centrum-centre-worcester-ma-usa,1997-11-30,Worcester 
 june-25-1997-laeronef-lille-france,1997-06-25,L’Aeronef,Lille,Hauts-de-France,France,4.176
 august-13-1997-star-lake-amphitheatre-burgettstown-pa-usa,1997-08-13,Star Lake Amphitheatre,Burgettstown,PA,USA,4.169
 july-09-1997-le-transbordeur-lyonvilleurbanne-france,1997-07-09,Le Transbordeur,Lyon/Villeurbanne,Auvergne-Rhône,France,4.162
-february-26-1997-longhorn-stuttgart-germany,1997-02-26,Longhorn,Stuttgart,Baden-Württemberg,Germany,4.159
+february-26-1997-longhorn-stuttgart-germany,1997-02-26,Longhorn,Stuttgart,Baden-Württemberg,Germany,4.147
 august-02-1997-gorge-amphitheatre-george-wa-usa,1997-08-02,Gorge Amphitheatre,George,WA,USA,4.083
 december-12-1997-pepsi-arena-albany-ny-usa,1997-12-12,Pepsi Arena,Albany,NY,USA,4.07
 july-25-1997-starplex-amphitheatre-dallas-tx-usa,1997-07-25,Starplex Amphitheatre,Dallas,TX,USA,4.056
+february-21-1997-tenax-florence-italy,1997-02-21,Tenax,Florence,Tuscany,Italy,4.044
 july-29-1997-desert-sky-pavilion-phoenix-az-usa,1997-07-29,Desert Sky Pavilion,Phoenix,AZ,USA,4.04
 december-31-1997-madison-square-garden-new-york-ny-usa,1997-12-31,Madison Square Garden,New York,NY,USA,4.035
-february-21-1997-tenax-florence-italy,1997-02-21,Tenax,Florence,Tuscany,Italy,4.034
 august-14-1997-darien-lake-performing-arts-center-darien-center-ny-usa,1997-08-14,Darien Lake Performing Arts Center,Darien Center,NY,USA,3.985
 june-20-1997-divaldo-archa-prague-czech-republic,1997-06-20,Divadlo Archa,Prague,Prague,Czech Republic,3.966
 november-13-1997-thomas-mack-center-las-vegas-nv-usa,1997-11-13,Thomas & Mack Center,Las Vegas,NV,USA,3.902
 december-09-1997-bryce-jordan-center-penn-state-university-state-college-pa-usa,1997-12-09,"Bryce Jordan Center, Penn State University",State College,PA,USA,3.844
 december-05-1997-csu-convocation-center-cleveland-oh-usa,1997-12-05,CSU Convocation Center,Cleveland,OH,USA,3.833
 november-16-1997-mcnichols-arena-denver-co-usa,1997-11-16,McNichols Arena,Denver,CO,USA,3.781
-february-23-1997-fillmore-cortemaggiore-italy,1997-02-23,Fillmore,Cortemaggiore,Emilia-Romagna,Italy,3.756
+february-23-1997-fillmore-cortemaggiore-italy,1997-02-23,Fillmore,Cortemaggiore,Emilia-Romagna,Italy,3.759
 july-26-1997-south-park-meadows-austin-tx-usa,1997-07-26,South Park Meadows,Austin,TX,USA,3.736
 june-24-1997-la-laiterie-strasbourg-france,1997-06-24,La Laiterie,Strasbourg,Grand Est,France,3.674
 july-03-1997-serenadenhof-nremberg-germany,1997-07-03,Serenadenhof,Nüremberg,Bavaria,Germany,3.633
@@ -65,15 +65,15 @@ august-11-1997-deer-creek-music-center-noblesville-in-usa,1997-08-11,Deer Creek 
 march-18-1997-the-flynn-theatre-burlington-vt-usa,1997-03-18,The Flynn Theatre,Burlington,VT,USA,3.428
 february-18-1997-bataclan-paris-france,1997-02-18,Bataclan,Paris,Île-de-France,France,3.425
 february-20-1997-teatro-smeraldo-milan-italy,1997-02-20,Teatro Smeraldo,Milan,Lombardy,Italy,3.412
+february-22-1997-teatro-olimpico-rome-italy,1997-02-22,Teatro Olimpico,Rome,Lazio,Italy,3.37
 june-22-1997-loreley-st-goarshausen-koblenz-germany,1997-06-22,Loreley,St. Goarshausen,Rhineland-Palatinate,Germany,3.37
 july-06-1997-spiaggia-di-rivoltella-desenzano-italy,1997-07-06,Spiaggia di Rivoltella,Desenzano,Lombardy,Italy,3.365
 february-13-1997-shepherds-bush-empire-london-england,1997-02-13,Shepherd's Bush Empire,London,England,United Kingdom,3.363
-february-22-1997-teatro-olimpico-rome-italy,1997-02-22,Teatro Olimpico,Rome,Lazio,Italy,3.362
 june-21-1997-hurricane-festival-scheeel-germany,1997-06-21,Hurricane Festival,Scheeßel,Lower Saxony,Germany,3.34
 february-14-1997-le-botanique-brussels-belgium,1997-02-14,Le Botanique,Brussels,Brussels-Capital,Belgium,3.286
 august-08-1997-new-world-music-theatre-tinley-park-il-usa,1997-08-08,New World Music Theatre,Tinley Park,IL,USA,3.184
 february-28-1997-huxleys-neue-welt-berlin-germany,1997-02-28,Huxley’s Neue Welt,Berlin,Berlin,Germany,3.149
 june-16-1997-royal-albert-hall-london-england,1997-06-16,Royal Albert Hall,London,England,United Kingdom,3.054
 june-29-1997-roskilde-festival-roskilde-denmark,1997-06-29,Roskilde Festival,Roskilde,Region Zealand,Denmark,2.988
-february-25-1997-incognito-munich-germany,1997-02-25,Incognito,Munich,Bavaria,Germany,2.965
+february-25-1997-incognito-munich-germany,1997-02-25,Incognito,Munich,Bavaria,Germany,2.966
 june-27-1997-worthy-farm-somerset-england,1997-06-27,Worthy Farm,Somerset,England,United Kingdom,2.679
